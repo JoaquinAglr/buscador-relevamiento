@@ -1,40 +1,63 @@
 import streamlit as st
 import pandas as pd
 
-# Links
-URL_ONEDRIVE = "https://mvl365-my.sharepoint.com/:x:/g/personal/joaquin_aguilar_vicentelopez_gov_ar/EcULpy53BUdNnWG0uJtwhfUBkF6Hl6mr1mp-0zOtqg09kw?download=1"
-URL_GITHUB = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.xlsx"
+# --- CONFIGURACIÓN DE LA PÁGINA ---
+st.set_page_config(page_title="Buscador Relevamiento", page_icon="🔍", layout="centered")
 
+# --- TÍTULO DE LA APP ---
+st.markdown("<h1 style='text-align: center; color: #003366;'>Buscador de Relevamiento</h1>", unsafe_allow_html=True)
+
+# --- FUNCIÓN PARA CARGAR DATOS ---
 @st.cache_data
 def load_data():
+    url_csv = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/refs/heads/main/relevamiento.csv?token=GHSAT0AAAAAADMG3X2DW7TIIFERDW6I3ZVO2G4D2MQ"
     try:
-        # Intentar con OneDrive
-        return pd.read_excel(URL_ONEDRIVE, engine="openpyxl")
+        df = pd.read_csv(url_csv)
+        return df
     except Exception as e:
-        st.warning(f"No se pudo cargar desde OneDrive ({e}), intentando con GitHub...")
-        return pd.read_excel(URL_GITHUB, engine="openpyxl")
+        st.error(f"No se pudieron cargar los datos. Error: {e}")
+        return pd.DataFrame()  # Retorna DataFrame vacío si falla
 
-def main():
-    st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
-    st.title("📊 Buscador de Relevamiento")
+# --- CARGAR DATOS ---
+df = load_data()
 
-    try:
-        df = load_data()
-        st.success("✅ Datos cargados correctamente")
+# --- CAJA DE BÚSQUEDA ---
+st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
+search_value = st.text_input("", "").strip()  # Caja centrada, sin texto guía
+st.markdown("</div>", unsafe_allow_html=True)
 
-        query = st.text_input("🔍 Buscar en los datos:")
-        if query:
-            resultados = df[df.apply(lambda row: row.astype(str).str.contains(query, case=False, na=False).any(), axis=1)]
-            st.write(f"Resultados encontrados: {len(resultados)}")
-            st.dataframe(resultados, use_container_width=True)
-        else:
-            st.dataframe(df, use_container_width=True)
+# --- FUNCION PAGINACIÓN ---
+def mostrar_resultado(df_busqueda, page_num, resultados_por_pagina=1):
+    start_idx = page_num * resultados_por_pagina
+    end_idx = start_idx + resultados_por_pagina
+    sub_df = df_busqueda.iloc[start_idx:end_idx]
 
-    except Exception as e:
-        st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
+    # Mostrar resultados centrados
+    for i in range(len(sub_df)):
+        st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
+        st.table(sub_df.iloc[i:i+1])  # Mostrar un resultado por página
+        st.markdown("</div>", unsafe_allow_html=True)
 
-if __name__ == "__main__":
-    main()
+# --- LÓGICA DE BÚSQUEDA Y PAGINACIÓN ---
+if search_value:
+    df_result = df[(df.astype(str).apply(lambda row: search_value.lower() in row.str.lower().to_string(), axis=1))]
+    
+    if not df_result.empty:
+        # Control de páginas
+        if "page_num" not in st.session_state:
+            st.session_state.page_num = 0
+        
+        col1, col2, col3 = st.columns([1,2,1])
+        with col1:
+            if st.button("Anterior") and st.session_state.page_num > 0:
+                st.session_state.page_num -= 1
+        with col3:
+            if st.button("Siguiente") and st.session_state.page_num < len(df_result)-1:
+                st.session_state.page_num += 1
+        
+        mostrar_resultado(df_result, st.session_state.page_num)
+    else:
+        st.warning("No se encontraron resultados para la búsqueda.")
 
 
 
