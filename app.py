@@ -1,91 +1,34 @@
 import streamlit as st
 import pandas as pd
 
-# Configuración inicial
-st.set_page_config(
-    page_title="Relevamiento de Inventario",
-    page_icon="📋",
-    layout="wide"
-)
+# --- Cargar datos desde GitHub ---
+@st.cache_data
+def load_data():
+    url_excel = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.xlsx"
+    df = pd.read_excel(url_excel)
+    return df
 
-# Ruta al archivo Excel en GitHub
-url_excel = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.xlsx"
-df = pd.read_excel(url_excel)
+df = load_data()
 
+# --- Configuración de la página ---
+st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
 
+st.title("🔎 Buscador de Relevamiento")
+st.markdown("Aplicación para buscar información en el relevamiento cargado en Excel.")
 
-# Leer archivo Excel
-try:
-    df = pd.read_excel(ruta_archivo, engine="openpyxl")
-except Exception as e:
-    st.error(f"No se pudo cargar el archivo: {e}")
-    st.stop()
+# --- Barra de búsqueda ---
+search = st.text_input("Buscar por cualquier palabra o código:")
 
-# Título
-st.markdown("<h1 style='text-align: center; color: #2c3e50;'>📋 Relevamiento de Inventario</h1>", unsafe_allow_html=True)
-st.markdown("---")
+if search:
+    resultados = df[df.astype(str).apply(lambda x: x.str.contains(search, case=False, na=False)).any(axis=1)]
+    st.write(f"Se encontraron **{len(resultados)}** resultados para: `{search}`")
+    st.dataframe(resultados, use_container_width=True)
+else:
+    st.info("Ingresá un término de búsqueda para ver resultados.")
 
-# Caja de búsqueda centrada y corta
-col_b1, col_b2, col_b3 = st.columns([3, 2, 3])
-with col_b2:
-    busqueda = st.text_input("", key="busqueda")
-
-if busqueda:
-    # Filtrar resultados
-    resultados = df[df.apply(lambda row: row.astype(str).str.contains(busqueda, case=False).any(), axis=1)]
-
-    if resultados.empty:
-        st.warning("⚠️ No se encontraron coincidencias.")
-    else:
-        # Paginación - 1 resultado por página
-        resultados_por_pagina = 1
-        total_resultados = len(resultados)
-        total_paginas = max(1, (total_resultados - 1) // resultados_por_pagina + 1)
-
-        if "pagina" not in st.session_state:
-            st.session_state["pagina"] = 1
-
-        # Control de paginación siempre visible
-        col1, col2, col3 = st.columns([1, 2, 1])
-        with col1:
-            anterior_desactivado = st.session_state["pagina"] == 1
-            if st.button("⬅️ Anterior", disabled=anterior_desactivado):
-                if not anterior_desactivado:
-                    st.session_state["pagina"] -= 1
-        with col3:
-            siguiente_desactivado = st.session_state["pagina"] == total_paginas
-            if st.button("Siguiente ➡️", disabled=siguiente_desactivado):
-                if not siguiente_desactivado:
-                    st.session_state["pagina"] += 1
-
-        pagina = st.session_state["pagina"]
-        inicio = (pagina - 1) * resultados_por_pagina
-        fin = inicio + resultados_por_pagina
-
-        st.markdown(
-            f"<p style='text-align:center; color:gray;'>Resultado {inicio+1} de {total_resultados}</p>",
-            unsafe_allow_html=True
-        )
-
-        # Mostrar un resultado centrado con tarjeta profesional
-        for _, row in resultados.iloc[inicio:fin].iterrows():
-            col_c1, col_c2, col_c3 = st.columns([2, 3, 2])
-            with col_c2:
-                # Tarjeta con borde azul oscuro y sombra ligera
-                st.markdown(
-                    "<div style='border:2px solid #1f4e79; border-radius:12px; "
-                    "padding:20px; margin:15px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align:center;'>",
-                    unsafe_allow_html=True
-                )
-                # Resumen de datos clave arriba
-                for key in ["MAC", "Número de Inventario", "Modelo"]:
-                    if key in resultados.columns:
-                        st.markdown(f"**{key}:** {row[key]}")
-                st.markdown("<hr>", unsafe_allow_html=True)
-                # Mostrar todas las columnas
-                for col in resultados.columns:
-                    st.markdown(f"**{col}:** {row[col]}")
-                st.markdown("</div>", unsafe_allow_html=True)
+# --- Mostrar todo si no hay búsqueda ---
+if st.checkbox("Mostrar todo el relevamiento"):
+    st.dataframe(df, use_container_width=True)
 
 
 
