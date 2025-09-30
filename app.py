@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Ruta al archivo Excel en GitHub
-excel_url = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/total relevamiento municipio.xlsx"
+excel_url = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.xlsx"
 df = pd.read_excel(excel_url, engine="openpyxl")
 
 
@@ -85,6 +85,7 @@ if busqueda:
                 for col in resultados.columns:
                     st.markdown(f"**{col}:** {row[col]}")
                 st.markdown("</div>", unsafe_allow_html=True)
+
 
 
 
