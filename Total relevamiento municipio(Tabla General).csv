@@ -1,0 +1,816 @@
+Efector,Area,Tipo de Dispositivo,SO,Procesador,RAM,Disco,Conexion,V.de conexion,Rango Ip,Mac,Inventario,Fecha,Scoring Procesador,F. Cant. RAM,F. Tipo RAM
+Maternidad,Administracion Jefa,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,100mb,10.254.49.73,6C:24:08:B9:C5:53,,12 Septiembre,9195,8GB,SODI
+Maternidad,Administracion,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.254.49.46,6c:24:08:6d:fc:13,,12 Septiembre,15758,8GB,SODI
+Maternidad,Administracion,"Lenovo 90C2003YAE	",Microsoft Windows 7 Professional,Intel(R) Pentium(R) CPU J2900 @ 2.41GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100Mb,10.254.49.72,B8:AE:ED:26:71:16,,12 Septiembre,1247,4GB,DIMM
+Maternidad,Estadistica,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.106,08:3A:88:6C:58:2C,,12 Septiembre,7270,8GB,SODI
+Maternidad,Estadistica y Patrimonio,Desktop brb,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,SSD 120 GB,Cableada,,10.254.49.65,1c:1b:0d:c1:ce:6c,,12 Septiembre,4307,4GB,DIMM
+Maternidad,Direccion,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.35,08:3a:88:6c:5c:2e,,12 Septiembre,7270,8GB,SODI
+Maternidad,Facturacion Jefa,Desktop G41MT-S2PT,Microsoft Windows 10 Pro,"	Intel(R) Celeron(R) CPU E3400 @ 2.60GHz",DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.55,50:E5:49:8A:4D:73,,12 Septiembre,898,4GB,DIMM
+Maternidad,Asesoria Legal,Desktop brb,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.104,1c:1b:0d:c1:ce:7a,,12 Septiembre,4307,4GB,DIMM
+Maternidad,Patrimonio,"Lenovo 90C2003YAE	",Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU J2900 @ 2.41GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.81,b8:ae:ed:26:6f:33,,12 Septiembre,1247,4GB,DIMM
+Maternidad,Docencia,"Lenovo 90C2003YAE	",Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU J2900 @ 2.41GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.102,b8:ae:ed:26:71:60,,12 Septiembre,1247,4GB,DIMM
+Maternidad,Facturacion,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.47,08:3a:88:6c:9d:e9,,12 Septiembre,7270,8GB,SODI
+Maternidad,Facturacion, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,Cableada,,10.254.49.69,00:71:c2:4a:94:6d,,12 Septiembre,1664,4GB,SODI
+Maternidad,facturacion,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.98,08:3a:88:6c:56:8d,,12 Septiembre,7270,8GB,SODI
+Maternidad,facturacion,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.16,6c:24:08:62:47:48,,12 Septiembre,15758,8GB,SODI
+Maternidad,Enfermeria Jefatura,"Lenovo 90C2003YAE	",Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU J2900 @ 2.41GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.76,b8:ae:ed:20:af:b6,,12 Septiembre,1247,4GB,DIMM
+Maternidad,Frente TPR 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.245.49.58,08:bf:b8:1e:07:e0,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Binomio1 Enfermeria,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.46.24,6c:24:08:6d:fd:4e,,12 Septiembre,15758,8GB,SODI
+Maternidad,Oficina Enfermeria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.29,08:bf:b8:3e:ae:2a,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Recepcion RN,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,SSD 120 GB,Cableada,,10.254.49.97,54:b2:03:05:5f:a2,,12 Septiembre,1215,8GB,SODI
+Maternidad,Binomio1 PA Enfermeria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.37,08:bf:b8:1d:d8:a3,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Binomio1 PA Enfermeria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.40,08:bf:b8:1d:e9:66,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Quirofano,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.50,08:bf:b8:1e:08:57,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Binomio1 S. Medicos,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.28,6c:24:08:b9:ca:42,,12 Septiembre,9195,8GB,SODI
+Maternidad,Binomio1 S. Medicos,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.25,08:3a:88:6c:8c:eb,,12 Septiembre,7270,8GB,SODI
+Maternidad,Anatomia Patologica,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.107,08:bf:b8:1d:d8:a8,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Binomio SIP,Desktop brb,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.122,1c:1b:0d:c1:ce:76,,12 Septiembre,4307,4GB,DIMM
+Maternidad,Anatomia Patologica Silapa,Desktop,Microsoft Windows 7 Professional,AMD Athlon(tm) II X2,DIMM DDR3 2GB,HDD 500 GB,,,10.254.49.30,00:e0:4c:36:02:c9,,12 Septiembre,1208,2GB,DIMM
+Maternidad,Enfermeria PB,Desktop Sentey,Microsoft Windows 10 Pro,AMD Sempron(tm) 145 Processor,DIMM DDR3 4GB,HDD 500 GB,,,10.254.49.91,50:e5:49:da:09:95,,12 Septiembre,540,4GB,DIMM
+Maternidad,Enfermeria PB,"Lenovo 90C2003YAE	",Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU J2900 @ 2.41GHz,DIMM DDR4 4GB,SSD 250 GB,Cableada,,,74:29:af:26:6b:67,,12 Septiembre,1247,4GB,DIMM
+Maternidad,Guardia Obs. Pasillo,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.26,08:3a:88:6c:73:22,,12 Septiembre,7270,8GB,SODI
+Maternidad,Guardia Obs. Espera,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.75,08:3a:88:6c:57:ad,,12 Septiembre,7270,8GB,SODI
+Maternidad,Vent. Guardia,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.39,08:bf:b8:1d:d8:a6,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Vent. Guardia,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.31,08:bf:b8:1d:e3:0b,,12 Septiembre,15982,8GB,DIMM
+Maternidad,,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,,08:3a:88:6c:93:99,,12 Septiembre,7270,8GB,SODI
+Maternidad,Archivo,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.30,6c:24:08:b9:cb:66,,12 Septiembre,9195,8GB,SODI
+Maternidad,Mantenimiento, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HDD 500 GB,Cableada,,,00:71:c2:4a:95:7f,,12 Septiembre,1664,4GB,SODI
+Maternidad,Isla 1,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.34,6c:24:08:af:2a:42,,12 Septiembre,9195,8GB,SODI
+Maternidad,Neonatologia Jefatura,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.66,08:bf:b8:3e:ae:37,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Isla 2,Lenovo 3484BNY,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,DIMM DDR3 4GB,SSD 500 GB,Cableada,,10.254.49.62,74:27:ea:ab:dc:7e,,12 Septiembre,1765,4GB,DIMM
+Maternidad,isla 3,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.89,08:bf:b8:3e:ae:2f,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Neo Adentro,Desktop,Microsoft Windows 7 Professional,AMD Sempron(tm) 145 Processor,DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.71,50:e5:49:da:0a:53,,12 Septiembre,540,4GB,DIMM
+Maternidad,Office Neo,Desktop SOYO,Microsoft Windows 10 Pro,"Intel(R) Core(TM) i3-2105 CPU @ 3.10GHz	",DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.27,8c:89:a5:f2:2e:05,,12 Septiembre,1837,4GB,DIMM
+Maternidad,isla 4,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,,08:bf:b8:1e:08:55,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Recepcion Camaras,Desktop brb,,,,,,,,1c:1b:0d:c1:ce:c2,,12 Septiembre,,,
+Maternidad,Seguridad No estandarizada,Mini PC Lenovo i3,Microsoft Windows 10 Pro,,,,Sin Red,,,,,12 Septiembre,,,
+Maternidad,Aislamiento Neo,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,,10.254.49.61,54:b2:03:05:5e:2e,,12 Septiembre,1215,4GB,SODI
+Maternidad,Jefatura Consultorios,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.23,08:3a:88:68:19:90,,12 Septiembre,7270,8GB,SODI
+Maternidad,Recepcion Consultorios,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.13,6c:24:08:6d:fb:87,,12 Septiembre,15758,8GB,SODI
+Maternidad,Cuidados Intensivos Heladera,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.20,08:3a:88:6c:53:a1,,12 Septiembre,7270,8GB,SODI
+Maternidad,Neo Isla derecha,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,,10.254.49.100,d4:5d:df:08:74:d6,,12 Septiembre,1215,4GB,SODI
+Maternidad,Neo isla centro, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.99,00:71:c2:49:2c:10,,12 Septiembre,1664,4GB,SODI
+Maternidad,Consultorio Nutricion,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.17,08:3a:88:6c:56:b1,,12 Septiembre,7270,8GB,SODI
+Maternidad,Neo isla izquierda,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,,10.254.49.84,54:b2:03:05:5f:8b,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio Serv. Social,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.80,d4:5d:df:08:76:26,,12 Septiembre,1215,4GB,SODI
+Maternidad,Cord. Enf. Neo ,HP Compaq 8200 Elite SFF PC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,DIMM DDR3 16GB,HDD 500 GB,Cableada,,10.254.49.77,3c:d9:2b:74:a7:f4,,12 Septiembre,3872,6GB,DIMM
+Maternidad,Consultorio 3,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.21,6c:24:08:6e:00:d9,,12 Septiembre,15758,8GB,SODI
+Maternidad,Uti,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.22,08:3a.88:6c:93:99,,12 Septiembre,7270,8GB,SODI
+Maternidad,Consultorio 4,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.78,08:bf:b8:1e:08:20,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Consultorio 5,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.83,d4:5d:df:08:75:ad,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,HDD 500 GB,Cableada,,10.254.49.49,d4:5d:df:08:77:71,,12 Septiembre,1215,8GB,SODI
+Maternidad,Consultorio 2,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.18,6c:24:08:77:39:25,,12 Septiembre,15758,8GB,SODI
+Maternidad,Equipo Seguimiento,Desktop,,,,,,,10.254.49.90,50:3a:aa:69:54:6e,,12 Septiembre,,,
+Maternidad,Hemoterapia,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.52,08:3a:88:6c:51:6f,,12 Septiembre,7270,8GB,SODI
+Maternidad,Ecografia,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.49.53,6c:24:08:a8:de:7b,,12 Septiembre,9195,8GB,SODI
+Maternidad,Ecografia 2,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.255.76.164,b0:3c:dc:ed:b9:a3,,12 Septiembre,9195,8GB,SODI
+Maternidad,Monitoreo Fetal,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,Cableada,,10.254.49.87,d4:5d:df:08:75:9f,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio 6,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.117,d4:5d:df:08:76:13,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio 7,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.121,54:b2:03:05:5f:a3,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio Vacunacion,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,Cableada,,10.254.49.118,D4:5D:DF:08:76:1E,,12 Septiembre,1215,4GB,SODI
+Maternidad,Ecografia 2,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.54,6c:24:08:b9:c5:b2,,12 Septiembre,9195,8GB,SODI
+Maternidad,Consultorio vacunacion 2,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.119,6c:24:08:b9:c8:ec,,12 Septiembre,9195,8GB,SODI
+Maternidad,Consultorio 9 puerperio,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.93,d4:5d:df:08:74:2e,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio 13,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.14,80:c5:f2:2f:65:eb,,12 Septiembre,1215,4GB,SODI
+Maternidad,Consultorio 13 2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.12,08:bf:b8:1d:d8:ac,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Consultorio 11,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.105,08:bf:b8:3e:ad:be,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Consultorio 10,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.10,08:3a:88:6c:6d:92,,12 Septiembre,7270,8GB,SODI
+Maternidad,Guardia Hemoterapia,"Lenovo 90C2003YAE	",Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU J2900 @ 2.41GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,,10.254.49.79,b8:ae:ed:29:b1:b5,,12 Septiembre,1247,4GB,DIMM
+Maternidad,Farmacia Jefatura,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.51,08:3a:88:6c:5a:f8,,12 Septiembre,7270,8GB,SODI
+Maternidad,Farmacia pasillo,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.45,08:bf:b8:1d:e5:4a,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Farmacia pasillo 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.49.128,d4:5d:df:08:77:4d,,12 Septiembre,1215,4GB,SODI
+Maternidad,Farmacia Ventanilla,desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HDD 1 TB,Cableada,,10.254.49.48,1c:1b:0d:c1:ce:71,,12 Septiembre,4307,4GB,DIMM
+Maternidad,Rrhh 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,Cableada,,10.254.49.123,d4:5d:df:08:76:21,,12 Septiembre,1215,4GB,SODI
+Maternidad,rrhh 2,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.86,08:3a:88:6c:4d:e3,,12 Septiembre,7270,8GB,SODI
+Maternidad,rrhh 3,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.49.15,6c:24:08:6a:75:4e,,12 Septiembre,15758,8GB,SODI
+Maternidad,Enfermeria Internacion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.41,08:bf:b8:1d:e2:46,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Enfermeria interacin pasillo,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.11,08:bf:b8:1e:03:75,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Medicos pasillo internacion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.38,08:bf:b8:1d:e3:35,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Medicos pasillo internacion 2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.56,08:bf:b8:1d:e4:66,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Internacion Neonato,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.44,08:bf:b8:1d:de:a6,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Internacion Neonato 2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.49.32,08:bf:b8:3e:ad:3f,,12 Septiembre,15982,8GB,DIMM
+Maternidad,Secretaria Rayos,desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,SSD 120 GB,Cableada,,10.254.49.68,1c:1b:0d:c1:ce:6b,,12 Septiembre,4307,4GB,DIMM
+Marzano,pediatria,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.57.162,08:3a:88:6c:61:39,,8 septiembre,7270,8GB,SODI
+Marzano,odontologia,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.57.165,08:3a:88:6c:50:02,,8 septiembre,7270,8GB,SODI
+Marzano,recepcion,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.57.163,fc:aa:14:ce:37:9c,,8 septiembre,2017,4GB,DIMM
+Marzano,clinica medica,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.575.167,08:3a:88:6c:6d:b5,,8 septiembre,7270,8GB,SODI
+Marzano,gineco,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.57.166,08:3a:88:6c:a2:95,,8 septiembre,7270,8GB,SODI
+Marzano,enfermeria,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.57.161,04:7b:cb:42:7d:e6,,8 septiembre,7199,8GB,SODI
+Marzano,privado Jefatura,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.25457.164,04:7b.cb:42:39:f3,,8 septiembre,7199,8GB,SODI
+Rotjer,recepcion 1,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.66.101,FC:AA:14:CE:3C:6E,,8 septiembre,2017,4GB,DIMM
+Rotjer,clin. medica,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,DIMM DDR4 4GB,SSD 120 GB,Cableada,100mb,10.254.66.104,b8:97:5a:d9:3a:20,,8 septiembre,4119,4GB,DIMM
+Rotjer,recepcion 2,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,186.22.223.67,fc:aa:14:ce:37:63,,8 septiembre,2017,4GB,DIMM
+Rotjer,enfermeria/vacunartorio,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.66.100,fc:aa:14:cf:56:24,,8 septiembre,2017,4GB,DIMM
+Rotjer,ginecologia,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.66.102,FC:AA:14:CE:A5:04,,8 septiembre,2017,4GB,DIMM
+Rotjer,pediatria/cons 1,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.66.103,40:8d:5c:9d:f7:b5,,8 septiembre,2017,4GB,DIMM
+Scalise,Jefatura,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1gb,10.254.20.108,B0:83:FE:B2:17:68,,8 septiembre,3509,4GB,DIMM
+Scalise,ventanilla,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.20.102,40:8d:5c:9a:c4:cd,,8 septiembre,2017,4GB,DIMM
+Scalise,recepcion,destop (ex bangho),Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1gb,10.254.20.106,fc:aa:14:ce:37:cd,,8 septiembre,2017,4GB,DIMM
+Scalise,Cons. 1,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1gb,10.254.20.107,40:8d:5c:9d:15:dd,,8 septiembre,2017,4GB,DIMM
+Scalise,Cons. 2,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1gb,10.254.20.109,e0:3f:49:55:b0:2c,,8 septiembre,2459,4GB,DIMM
+Scalise,ginecologia,desktop (ex bangho),Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1gb,10.254.20.103,40:8d:5c:9d:15:35,,8 septiembre,2017,6GB,DIMM
+Scalise,Cons. 3,bangho AIO E0914,Microsoft Windows 7 Professional,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1gb,10.254.20.104,40:8d:5c:9d:1e:50,,8 septiembre,2017,4GB,DIMM
+Scalise,Enfermeria,bangho AIO E0914,Microsoft Windows 7 Professional,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1gb,10.254.20.105,40:8d:5c:9e:36:97,,8 septiembre,2017,4GB,DIMM
+P. Harris,Direccion,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 16GB,M2 1 TB,Cableada,1Gb,10.254.41.4,6c:24:08:b9:c7:bc,,8 septiembre,9195,6GB,SODI
+P. Harris,Consultorio 4,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 16GB,M2 1 TB,Cableada,1Gb,10.254.41.10,6c:24:08:b9:c8:ca,,8 septiembre,9195,6GB,SODI
+P. Harris,Consultorio 3,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.41.9,6c:24:08:b9:c8:d7,,8 septiembre,9195,8GB,SODI
+P. Harris,Enfermeria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.41.5,08:bf:b8:1d:df:99,,8 septiembre,15982,8GB,DIMM
+P. Harris,Consultorio 2,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.41.12,6c:24:08:b9:c6:59,,8 septiembre,9195,8GB,SODI
+P. Harris,Consultorio 1,Desktop Generico,Microsoft Windows 7 Professional,Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.41.6,d0:50:99:44:8f:53,,8 septiembre,3582,4GB,DIMM
+P. Harris,ventanilla,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.41.3,08:3a:88:6c:5d:56,,8 septiembre,7270,8GB,SODI
+P. Harris,Recepcion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.41.15,08:bf:b8:1d:e0:c1,,8 septiembre,15982,8GB,DIMM
+P. Harris,Deposito,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.41.7,54:b2:03:05:5f:98,,8 septiembre,1215,4GB,SODI
+P. Harris,Frente,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.41.8,40:8d:5c:9a:c3:2b,,8 septiembre,2017,4GB,DIMM
+Ravazzoli,Consulorio 2,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.46.100,E0:3F:49:55:B0:8A,,5 septiembre,2459,4GB,DIMM
+Ravazzoli,Odontologia,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 250 GB,Cableada,1Gb,10.254.46.100,F4:4D:30:AD:7E:4C,,5 septiembre,5476,8GB,DIMM
+Ravazzoli,Ginecologia,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.46.100,f4:4d:30:ad:85:97,,5 septiembre,5476,8GB,DIMM
+Ravazzoli,Clinica,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.46.113,40:8D:5C:9D:IE:47,,5 septiembre,2017,4GB,DIMM
+Ravazzoli,Enfermeria,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.46.105,08:3A:88:6C:74:AE,,5 septiembre,7270,8GB,SODI
+Ravazzoli,Pediatria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1Gb,10.254.46.108,94:c6:91:31:a2:4b,,5 septiembre,5476,8GB,DIMM
+Ravazzoli,Jefatura,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1Gb,10.254.46.116,94:C6:91:31:5F:BC,,5 septiembre,5476,8GB,DIMM
+Ravazzoli,Jefatura,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.46.101,40:8D:5C:9C:6C:42,,5 septiembre,2017,4GB,DIMM
+Ravazzoli,Recepcion,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.46.106,04:7B:CB:42:7E:44,,5 septiembre,7199,8GB,SODI
+Ravazzoli,Recepcion,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100,10.254.46.107,08:3A:88:6C:5F:1E,,5 septiembre,7270,8GB,SODI
+Ravazzoli,Psicopeda/Nutri/Obst,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.46.111,94:C6:91:31:A0:8B,,5 septiembre,5476,4GB,DIMM
+Ravazzoli,Serv. Social,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.46.109,F4:4D:30:AD:80:49,,5 septiembre,5476,4GB,DIMM
+Ravazzoli,Des. Infantil,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.46.102,54:B2:03:05:5F:8D,,5 septiembre,1215,4GB,SODI
+Negrete,Cons. 1,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.165.100,04:7b:cb:42:7f:68,,8 septiembre,7199,8GB,SODI
+Negrete,Psiquiatria P,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.165.109,f4:4d:30:ad:85:c1,,8 septiembre,5476,8GB,DIMM
+Negrete,Psiquiatria Ex Odon,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.165.102,f4:4d:30:ad:83:ec,,8 septiembre,5476,8GB,DIMM
+Negrete,Serv. Social,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.165.112,94:c6:91:31:a5:d8,,8 septiembre,5476,8GB,DIMM
+Negrete,Psicologia G,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.165.106,f4:4d:30:ad:83:ed,,8 septiembre,5476,8GB,DIMM
+Negrete,Archivo,Desktop,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.165.107,bc:5f:f4:cd:62:b3,,8 septiembre,1765,4GB,DIMM
+Negrete,Recepcion,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.165.105,40:8d:5c:9d:1e:26,,8 septiembre,2017,4GB,DIMM
+Negrete,Recepcion 1,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,100mb,10.254.165.103,94:c6:91:31:a0:8f,,8 septiembre,5476,8GB,DIMM
+Negrete,Psicologia P,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.165.101,08:bf.b8:1d:e0:fe,,8 septiembre,15982,8GB,DIMM
+Negrete,Enfermeria,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.165.104,40:8d:5c:9a:c5:a1,,8 septiembre,2017,4GB,DIMM
+Negrete,Psicologia C,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4  8GB,SSD 120 GB,Cableada,1Gb,10.254.165.108,d4:5d:df:08:77:46,,8 septiembre,1215,8GB,SODI
+Negrete,Jefatura,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.165.111,40:8d:5c:9a:c2:6b,,8 septiembre,2017,4GB,DIMM
+B. Aguirre,Enfermeria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.73.45,f4:4d:30:ad:f5:d1,,8 septiembre,5476,8GB,DIMM
+B. Aguirre,Consultorio 2,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.73.52,b0:83:fe:aa:ac:67,,8 septiembre,3509,4GB,DIMM
+B. Aguirre,Consultorio 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.73.49,08:bf:b8:1d:e4:3f,,8 septiembre,15982,8GB,DIMM
+B. Aguirre,Consultorio PA,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.73.50,94:c6:91:31:a1:f5,,8 septiembre,5476,8GB,DIMM
+B. Aguirre,Jefatura,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.73.51,08:bf:b8:1d:e4:63,,8 septiembre,15982,8GB,DIMM
+B. Aguirre,Consultorio 5,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1Gb,10.254.73.48,40:8d:5c:9d:1e:52,,8 septiembre,2017,6GB,DIMM
+B. Aguirre,Recepcion,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.73.40,08:3a:88:6c:7b:38,,8 septiembre,7270,8GB,SODI
+B. Aguirre,Recepcion,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.73.43,08:3a:88:6c:6d:8b,,8 septiembre,7270,8GB,SODI
+B. Aguirre,Consultorio 4,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 8GB,HDD 500 GB,Cableada,1Gb,10.254.73.44,40:8d:5c:9d:15:3d,,8 septiembre,2017,8GB,DIMM
+B. Aguirre,consultorio 3,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.73.47,08:bf:b8:1d:df:92,,8 septiembre,15982,8GB,DIMM
+Bermudez,Pediatria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.54.14,94:C6:91:31:A0:0D,,5 septiembre,5476,8GB,DIMM
+Bermudez,Enfermeria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,100mb,10.254.54.7,F4:4D:30:AD:80:29,,5 septiembre,5476,8GB,DIMM
+Bermudez,Odontologia,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,HDD 1 TB,Cableada,100mb,10.254.54.12,B0:83:FE:AA:AC:48,,5 septiembre,3509,4GB,DIMM
+Bermudez,Ginecologia,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.54.15,94:C6:91:30:60:D9,,5 septiembre,5476,8GB,DIMM
+Bermudez,Clinica Medica,Lenovo 11LU000WAC,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,100mb,10.254.54.3,04:7B:CB:42:83:49,,5 septiembre,7199,8GB,SODI
+Bermudez,Psicologia,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.54.126,F4:4D:30:AD:85:4D,,5 septiembre,5476,8GB,DIMM
+Bermudez,Servicio Social,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,100mb,10.254.54.6,F4:4D:30:AD:85:09,,5 septiembre,5476,8GB,DIMM
+Bermudez,Jefatura,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.54.9,F4:4D:30:AD:7B:EE,,5 septiembre,5476,8GB,DIMM
+Bermudez,Recepcion,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100mb,10.254.54.13,40:8D:5C:9D:1E:31,,5 septiembre,2017,4GB,DIMM
+Bermudez,Recepcion,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,100mb,10.254.54.8,B0:83:FE:B2:1B:F8,,5 septiembre,3509,4GB,DIMM
+Bermudez,Recepcion,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,100mb,10.254.54.5,94:C6:91:31:A0:9C,,5 septiembre,5476,8GB,DIMM
+Bermudez,SUM,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1gb,10.70.54.102,94:C6:91:31:A0:98,,5 septiembre,5476,8GB,DIMM
+P. Barbero,Recepcion,Desktop,Microsoft Windows 10 Pro,"AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G",DIMM DDR3 4GB,HDD 500 GB,Cableada,100Mb,10.254.96.51,d8:cb:8a:a3:37:c7,,8 septiembre,3211,4GB,DIMM
+P. Barbero,Ventanilla,Desktop Generico,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,100Mb,10.254.96.60,d0:50:99:44:21:9c,,8 septiembre,3582,6GB,DIMM
+P. Barbero,Jefatura,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 8GB,HDD 1 TB,Cableada,1Gb,10.254.96.55,b0:83:fe:b1:87:f9,,8 septiembre,3509,8GB,DIMM
+P. Barbero,SUM,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 250 GB,Cableada,1Gb,10.254.96.59,f4:4d:30:ad:f5:65,,8 septiembre,5476,8GB,DIMM
+P. Barbero,Gineco,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.96.62,f4:4d:30:ad:7b:7e,,8 septiembre,5476,8GB,DIMM
+P. Barbero,Odonto,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 250 GB,Cableada,1Gb,10.25496.58,94:c6:91:31:a1:f2,,8 septiembre,5476,8GB,DIMM
+P. Barbero,S. Mental,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.96.126,f4:4d:30:ad:f5:7b,,8 septiembre,5476,8GB,DIMM
+P. Barbero,Enfermeria 1,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1gb,10.254.96.61,40:8d:5c:9a:cc:0c,,8 septiembre,2017,4GB,DIMM
+P. Barbero,Enfermeria 2,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1gb,10.254.96.53,04:7b:cb:42:7e:07,,8 septiembre,7199,8GB,SODI
+P. Barbero,C. Medica,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.96.54,f4:4d:30:ad:83:8d,,8 septiembre,5476,8GB,DIMM
+P. Barbero,Pediatria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.96.57,f4:4d:30:ad:7b:5f,,8 septiembre,5476,8GB,DIMM
+B. Acosta,SUM,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,100Mb,10.254.68.52,D4:5D:DF:08:76:1D,,5 septiembre,1215,4GB,SODI
+B. Acosta,Cons. Pasillo,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.68.48,F4:4D:30:AD:7B:63,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Psicologia,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.68.46,F4:4D:30:AD:F5:B6,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Atencion Social,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,100mb,10.254.68.45,F4:4D:30:AD:83:AD,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Clin. Medica,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.68.47,94:C6:91:31:A0:A5,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Ecografia,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1Gb,10.254.68.50,F4:4D:30:AD:7B:A0,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Gineco,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.68.43,F4:4D:30:AD:82:AD,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Pediatria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1gb,10.254.68.49,F4:4D:30:AD:85:3E,,5 septiembre,5476,8GB,DIMM
+B. Acosta,Enfermeria,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 8GB,HDD 500 GB,inalambrica,,10.255.68.156,A0:2C:36:25:EC:A1,,5 septiembre,2017,8GB,DIMM
+B. Acosta,Enfermeria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1gb,10.254.68.53,08:BF:B8:1D:DF:97,,5 septiembre,15982,8GB,DIMM
+B. Acosta,Office,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,100Mb,10.254.68.42,04:7B:CB:42:7E:08,,5 septiembre,7199,8GB,SODI
+B. Acosta,Recepcion,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 8GB,HDD 1 TB,Cableada,1gb,10.254.68.44,B0:83:FE:AA:AC:68,,5 septiembre,3509,8GB,DIMM
+B. Acosta,Office,Notebook Positivo BGH,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,SODIMM DDR3 4GB,SSD 120 GB,Cableada,,10.254.68.54,80:fa:5b:a1:a2:79,,5 septiembre,4307,4GB,SODI
+Ceibo,Consultorio 3 ,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.62.18,d4:5d:df:08:74:ef,,8 septiembre,1215,4GB,SODI
+Ceibo,Consultorio 2,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.62.22,6c:24:08:6d:fe:3b,,8 septiembre,15758,8GB,SODI
+Ceibo,Recepcion,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.62.19,d4:5d:df:08:77:48,,8 septiembre,1215,4GB,SODI
+Ceibo,Jefatura,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.62.17,6c:24:08:6d:fa:23,,8 septiembre,15758,8GB,SODI
+Ceibo,Enfermeria,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.62.23,54:b2:03:05:5f:95,,8 septiembre,1215,4GB,SODI
+Ceibo,Consultorio 1,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 8GB,HDD 1 TB,Cableada,1Gb,10.254.62.14,b0:83:fe:aa:ac:59,,8 septiembre,3509,8GB,DIMM
+Arcuri,Despacho,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1 Gb/s,10.254.118.1,04:7B:CB:42:81:5C,,9 septiembre,7199,8GB,SODI
+Arcuri,Enfermeria,Mini PC Lenovo,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 4GB,SSD 120 GB,inalambrico,400 Mb/s,10255118104,F0:03:8C:B8:9B:B3,,9 septiembre,7199,4GB,SODI
+Arcuri,Recepcion,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,inalambrico,400 Mb/s,10255118100,A8:93:4A:DE:ED:E3,,9 septiembre,7199,8GB,SODI
+Arcuri,Consultorio 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1 Gb/s,10.254.118.2,D4:5D:DF:08:77:68,,9 septiembre,1215,4GB,SODI
+Arcuri,Consultorio 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1 Gb/s,10.254.118.3,D4:5D:DF:08:76:41,,9 septiembre,1215,4GB,SODI
+Llobera,Recepcion,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,HDD 1 TB,Cableada,1Gb,1025458108,B0:83:fe:b2:18:b5,,9 septiembre,3509,4GB,DIMM
+Llobera,Clin. Medica,Mini PC Lenovo,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.58.102,08:3A:88:6C:88:49,,9 septiembre,7199,8GB,SODI
+Llobera,Pediatria PA,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.58.100,,,9 septiembre,7199,8GB,SODI
+Llobera,Jefatura PA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,inalambrico,,10.254.58.100,80:c5:f2:2f:66:4d,,9 septiembre,1215,4GB,SODI
+Llobera,Odontologia PA,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.58.100,,,9 septiembre,7199,8GB,SODI
+Llobera,Ginecologia PA,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.58.110,08:3A:88:6C:7F:96,,9 septiembre,7199,8GB,SODI
+Llobera,Recepcion enf.,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,SSD 500 GB,Cableada,1Gb,10.254.58.107,40:8D:5C:9A:CE:D5,,9 septiembre,2017,6GB,DIMM
+Llobera,Oftalmologia,Mini PC Lenovo,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,10.254.58.106,08:3A:88:6C:7C:04,,9 septiembre,7199,8GB,SODI
+Llobera,Enfermeria,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1Gb,10.254.58.109,40:8D:5C:9A:CC:12,,9 septiembre,2017,6GB,DIMM
+Marcelino,Gineco,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.22.61,F4:4D:30:AD:86:09,,9 septiembre,5476,8GB,DIMM
+Marcelino,SUM,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,100mb,10.254.22.73,F4:4D:30:AD:83:8B,,9 septiembre,5476,8GB,DIMM
+Marcelino,Jefatura,Desktop ,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.22.62,B8:97:5A:D9:3C:1B,,9 septiembre,4119,4GB,DIMM
+Marcelino,Jefatura (ahora en nutricion),Notebook,Microsoft Windows 10 Pro,"
+Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz",DIMM DDR3 4GB,HDD 500 GB,inalambrica,1Gb,,F0:76:1C:1F:7D:91,,9 septiembre,1655,4GB,DIMM
+Marcelino,Trabajo social,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1Gb,10.254.22.55,F4:4D:30:AD:F5:A8,,9 septiembre,5476,8GB,DIMM
+Marcelino,Gineco,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.22.63,4C:CC:6A:F8:D1:0E,,9 septiembre,4307,4GB,DIMM
+Marcelino,Pediatria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1Gb,10.254.22.53,F4:4D:30:AD:83:DF,,9 septiembre,5476,8GB,DIMM
+Marcelino,Enfermeria,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.22.54,F4:4D:30:AD:85:C6,,9 septiembre,5476,8GB,DIMM
+Marcelino,Recepcion,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.22.36,F4:4D:30:AD:F7:B1,,9 septiembre,5476,8GB,DIMM
+Marcelino,Recepcion,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.35,40:8D:5C:9A:C3:41,,9 septiembre,2017,4GB,DIMM
+Marcelino,Consultorio,desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1Gb,10.254.22.70,E0:3F:49:55:B0:3F,,9 septiembre,2459,6GB,DIMM
+DAP,Jefatura Laura,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100mb,10.254.22.48,08:BF:B8:1D:DE:C6,,9 septiembre,15982,8GB,DIMM
+DAP,Jefatura Victoria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.22.40,08:BF:B8:1B:3E:C0,,9 septiembre,15982,8GB,DIMM
+DAP,Serv. Social,Desktop ,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 6GB,SSD 120 GB,Cableada,1Gb,10.254.22.59,60:02:92:B2:E2:54,,9 septiembre,3509,6GB,DIMM
+DAP,Serv. Social,Desktop ,Microsoft Windows 10 Pro,"	Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz",DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.46,E0:3F:49:55:B4:55,,9 septiembre,2459,4GB,DIMM
+DAP,RRHH,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.22.31,40:8D:5C:9A:CE:BA,,9 septiembre,2017,4GB,DIMM
+DAP,RRHH,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.22.44,B0:83:FE:AA:DA:8A,,9 septiembre,2459,4GB,DIMM
+DAP,PC Isla con impresora,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.45,D4:5D:DF:08:76:33,,9 septiembre,2017,4GB,DIMM
+DAP,PC Isla con impresora,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1Gb,10.254.22.67,40:8D:5C:9A:C2:F0,,9 septiembre,2017,6GB,DIMM
+DAP,PC Isla con impresora,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4  8GB,SSD 120 GB,Cableada,1Gb,10.254.22.64,40:8D:5C:9A:C2:F9,,9 septiembre,1215,8GB,SODI
+DAP,Mesa 2,desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1Gb,10.254.22.50,E0:3F:49:55:B4:6A,,9 septiembre,2459,6GB,DIMM
+DAP,Mesa 2,,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 8GB,HDD 500 GB,Cableada,1Gb,10.254.22.43,D0:27:88:90:6B:A3,,9 septiembre,3329,8GB,DIMM
+DAP,mesa 2,Notebook,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz,DIMM DDR3 8GB,HDD 500 GB,Cableada,1Gb,10.254.22.71,08:9E:01:2E:CC:CD,,9 septiembre,2249,8GB,DIMM
+DAP,Facturacion,Dell Inc. Mini Tower OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,HDD 1 TB,Cableada,1Gb,,,,9 septiembre,3509,4GB,DIMM
+DAP,Facturacion,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4  8GB,HDD 500 GB,Cableada,1Gb,10.254.22.34,D4:5D:DF:08:77:49,,9 septiembre,1215,8GB,SODI
+DAP,Facturacion,Desktop,Microsoft Windows 10 Pro,"	AMD A10-9700 RADEON R7, 10 COMPUTE CORES 4C+6G",DIMM DDR3 8GB,HDD 500 GB,Cableada,1Gb,10.254.22.49,70:85:C2:81:8F:41,,9 septiembre,3540,8GB,DIMM
+DAP,Oficina de Programas,Lenovo Notebok 20NES15F00,Microsoft Windows 10 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,SSD 500 GB,Cableada,1Gb,,,,9 septiembre,3733,8GB,SODI
+DAP,Compras,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.38,D4:5D:DF:08:75:91,,9 septiembre,1215,4GB,SODI
+DAP,Compras,desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 6GB,SSD 120 GB,Cableada,100mb,10.254.22.37,E0:3F:49:55:B0:43,,9 septiembre,2459,6GB,DIMM
+DAP,Compras,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.68,40:8D:5C:9A:C3:0B,,9 septiembre,2017,4GB,DIMM
+DAP,Compras,Lenovo Notebok 20NES15F00,Microsoft Windows 10 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,SSD 500 GB,inalambrica,,,,,9 septiembre,3733,8GB,SODI
+DAP,Guardada,Lenovo Notebok 20NES15F00,Microsoft Windows 10 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,SSD 500 GB,inalambrica,,,,,9 septiembre,3733,8GB,SODI
+DAP,Farmacia Fondo PC,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.51,E0:3F:49:55:B0:3E,,9 septiembre,2459,4GB,DIMM
+DAP,Farmacia PC Fondo Ventana,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.22.42,D4:5D:DF:08:76:2B,,9 septiembre,1215,4GB,SODI
+DAP,Farmacia depósito ,Desktop ,Microsoft Windows 7 Professional,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,DIMM DDR3 4GB,HD 320 GB,,,10.254.22.47,E0:3F:49:55:B4:73,,9 septiembre,1765,4GB,DIMM
+DAP,Farmacia fondo notebook,LENOVO,Microsoft Windows 10 Pro,"
+Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz",SODIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.22.60,F0:76:1C:1E:9B:30,,9 septiembre,1655,4GB,SODI
+Geriatrico,Recepcion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.50.119.16,08:bf:b8:1e:03:7b,,10 Septiembre,15982,8GB,DIMM
+Geriatrico,Enfermeria,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.45,08:bf:b8:1d:e2:91,,10 Septiembre,15982,8GB,DIMM
+Geriatrico,Administracion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.3,08:BF:B8:1B:3E:BF,,11 Septiembre,15982,8GB,DIMM
+Geriatrico,Facturacion,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.34,08:3A:88:6C:58:FA,,11 Septiembre,7270,8GB,SODI
+Geriatrico,Trabajo social, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,10.254.119.48,54:B2:03:04:2C:70,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Escritorio abogada,Kelix,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz,DIMM DDR4 8GB,SSD 250 GB,Cableada,100Mb,10.254.119.53,D8:BB:C1:63:E9:1C,,11 Septiembre,8223,8GB,DIMM
+Geriatrico,Compras,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.119.38,6C:24:08:6D:F9:A5,,11 Septiembre,15758,8GB,SODI
+Geriatrico,Jefatura,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.119.36,6C:24:08:B9:C1:C4,,11 Septiembre,9195,8GB,SODI
+Geriatrico,RR.HH (nutricion),Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.17,08:BF:B8:1D:E4:43,,11 Septiembre,15982,8GB,DIMM
+Geriatrico,RR.HH, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,10Mb,10.254.119.2,54:B2:03:04:30:BE,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Cordinacion consultorios,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.254.119.33,6C:24:08:B9:C4:49,,11 Septiembre,9195,8GB,SODI
+Geriatrico,RR.HH 2,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.254.119.31,6C:24:08:6A:81:9E,,11 Septiembre,15758,8GB,SODI
+Geriatrico,Biblioteca,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.50.119.17,6C:24:08:B9:CB:88,,11 Septiembre,9195,8GB,SODI
+Geriatrico,gimnasio,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,wifi,400Mb,10255119162,B0:3C:DC:ED:B5:B6,,11 Septiembre,9195,8GB,SODI
+Geriatrico,Centro de día,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.25,08:BF:B8:1B:3E:BC,,11 Septiembre,15982,8GB,DIMM
+Geriatrico,Centro de día 2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.41,08:BF:B8:1B:3F:13,,11 Septiembre,15982,8GB,DIMM
+Geriatrico,Micro cine, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1Gb,10.254.119.29,54:B2:03:04:2A:D0,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Farmacia Ventanilla,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.119.5,6C:24:08:B9:C7:2C,,11 Septiembre,9195,8GB,SODI
+Geriatrico,Farmacia , CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1Gb,10.254.119.52,54:B2:03:04:2A:C5,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Farmacia ,desktop,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G4500 @ 3.50GHz,DIMM DDR3 4GB,HDD 1 TB,,,Sin red por el momento,4C:CC:6A:4A:AA:73,,11 Septiembre,2799,4GB,DIMM
+Geriatrico,C.Ext Cons3 ,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.119.20,08:3A:88:6C:A1:69,,11 Septiembre,7270,8GB,SODI
+Geriatrico,C.Ext Cons1, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100Mb,10.254.119.47,54:B2:03:04:2C:6F,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Enfermeria 1piso,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.50.119.15,6C:24:08:B9:C5:B3,,11 Septiembre,9195,8GB,SODI
+Geriatrico,Enfermeria 2 1piso,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,HDD 500 GB,Cableada,100Mb,10.50.119.20,00:23:24:72:FC:A6,,11 Septiembre,2896,4GB,SODI
+Geriatrico,C.Ext Cons2, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,100Mb,10.254.119.43,54:B2:03:04:2C:BD,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Medicos 1 piso,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.254.119.7,6C:24:08:B9:C7:46,,11 Septiembre,9195,8GB,SODI
+Geriatrico,C.Ext Enfermeria, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100Mb,10.254.119.44,54:B2:03:04:2C:6E,,11 Septiembre,2629,4GB,SODI
+Geriatrico,Medicos 1 piso 2,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.119.23,08:3A:88:6C:5E:54,,11 Septiembre,7270,8GB,SODI
+Geriatrico,C.Ext Recepcion 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100Mb,10.254.119.18,08:BF:B8:1D:DE:9D,,11 Septiembre,15982,8GB,DIMM
+Geriatrico,C.Ext Recepcion 2,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.119.26,6C:24:08:77:30:B4,,11 Septiembre,15758,8GB,SODI
+Geriatrico,Recepcion laboratorio,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100Mb,10.254.119.22,08:BF:B8:1D:DC:B9,,11 Septiembre,15982,8GB,DIMM
+Geriatrico,Laboratorio,,,,,,,,10.254.119.42,08:b:b8:33:07:aa,,11 Septiembre,,,
+Geriatrico,Enfermeria PB mostrador,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,wifi,400Mb,10255119159,b0:3c:dc:ee:28:de,,11 Septiembre,9195,8GB,SODI
+Geriatrico,Enfermeria Mostrador 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1Gb,10.254.119.12,D4:5D:DF:08:77:16,,11 Septiembre,1215,4GB,SODI
+Bignone,Consultorio 3,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.64.110,08:bf:b8:1d:df:8f,,10 Septiembre,15982,8GB,DIMM
+Bignone,Recepcion,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.64.107,6C:24:08:6A:75:A0,,11 Septiembre,15758,8GB,SODI
+Bignone,Recepcion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.64.108,C8:7F:54:AC:BF:FF,,11 Septiembre,15982,8GB,DIMM
+Bignone,Consultorio 2 ,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1GB,10.254.64.103,6C:24:08:B9:C8:C6,,11 Septiembre,9195,8GB,SODI
+Bignone,Consultorio1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1GB,10.254.64.109,D4:5D:DF:08:75:A2,,11 Septiembre,1215,4GB,SODI
+Bignone,Administracion 1 ,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.64.101,6C:24:08:B9:C1:0E,,11 Septiembre,9195,8GB,SODI
+Bignone,Administracion 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,Cableada,100Mb,10.254.64.106,54:B2:03:05:5F:9D,,11 Septiembre,1215,4GB,SODI
+Bignone,Direccion,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Wifi,240Mb,10.255.64.132,C8:CB:9E:5E:D6:C5,,11 Septiembre,9195,8GB,SODI
+Bignone,Direccion 2 ,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1GB,10.254.64.126,D4:5D:DF:08:76:1B,,11 Septiembre,1215,4GB,SODI
+Bignone,Radio,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 1 TB,Cableada,1GB,,MVLSSMAR81,,11 Septiembre,1215,4GB,SODI
+Bignone,Estimulacion visual,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1GB,10.254.64.104,08:BF:B8:1D:E0:4C,,11 Septiembre,15982,8GB,DIMM
+Bignone,Notebook Radio,HP 240 G7 Notebook PC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz,SODIMM DDR4 4GB,SSD 120 GB,cableada,100Mb,10.254.64.124,38:22:E2:EF:EA:91,,11 Septiembre,3533,4GB,SODI
+Bignone,Biblioteca,,,,,,,,10.255.64.110,,,11 Septiembre,,,
+Marini,Cons 36,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.140,6C:24:08:6D:FE:B3,,11 Septiembre,15758,8GB,SODI
+Marini,Administracion,Lenovo Notebok 20NES15F00,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 250 GB,Cableada,1GB,10.254.18.190,54:05:DB:68:5B:2A,,11 Septiembre,3733,8GB,SODI
+Marini,Labo. Estimulacion Multisensorial,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.210,54:B2:03:05:5F:9F,,11 Septiembre,1215,4GB,SODI
+Marini,Compras, LENOVO 10B4A0DEAC,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,DIMM DDR3 4GB,SSD 120 GB,Cableada,100MB,10.254.18.169,44:37:E6:DC:A8:7E,,11 Septiembre,1882,4GB,DIMM
+Marini,Cons 38, LENOVO 10B4A0DEAC,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100MB,10.254.18.216,44:37:E6:DC:9F:1F,,10 Septiembre,1882,4GB,DIMM
+Marini,Cons 40, LENOVO 10B4A0DEAC,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100MB,10.254.18.147,44:37:E6:DC:A7:35,,11 Septiembre,1882,4GB,DIMM
+Marini,Estadistica, LENOVO 10B4A0DEAC,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,DIMM DDR3 4GB,SSD 250 GB,Cableada,100MB,10.254.18.151,44:37:E6:DC:A9:E8,,11 Septiembre,1882,4GB,DIMM
+Marini,Cons 41,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,100MB,10.254.18.150,D4:5D:DF:08:74:31,,11 Septiembre,1215,4GB,SODI
+Marini,Facturacion 1,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.18.130,08:3A:88:6C:61:26,,11 Septiembre,7270,8GB,SODI
+Marini,Cons 42,Desktop MSI,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR3 4GB,HDD 1 TB,Cableada,100MB,10.254.18.220,4C:CC:6A:D7:1D:A3,,11 Septiembre,4307,4GB,DIMM
+Marini,Facturacion 2 ,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1GB,10.254.18.202,08:3A:88:6C:4D:F2,,11 Septiembre,7270,8GB,SODI
+Marini,Facturacion 3,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.158,08:3A:88:6C:52:90,,11 Septiembre,7270,8GB,SODI
+Marini,Cons 43,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.154,6C:24:08:6D:FC:A2,,11 Septiembre,15758,8GB,SODI
+Marini,Cons 44,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.168,6C:24:08:6D:F9:A4,,11 Septiembre,15758,8GB,SODI
+Marini,Facturacion 4,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.188,08:3A:88:6C:89:5C,,11 Septiembre,7270,8GB,SODI
+Marini,Cons 45,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.218,D4:5D:DF:08:75:9A,,11 Septiembre,1215,4GB,SODI
+Marini,Recepción  2°,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.241,D4:5D:DF:08:77:45,,11 Septiembre,1215,4GB,SODI
+Marini,Recepción  2° 2,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.144,08:3A:88:6C:59:89,,11 Septiembre,7270,8GB,SODI
+Marini,Cons 19,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,100MB,10.254.18.183,50:54:7B:9F:FC:23,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 19,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1GB,10.254.18.174,08:BF:B8:1D:E3:2A,,11 Septiembre,15982,8GB,DIMM
+Marini,Archivo,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,1GB,10.254.18.172,6C:24:08:6D:FE:49,,11 Septiembre,15758,8GB,SODI
+Marini,Recepción 1° izquierda,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100GB,10.254.18.240,D4:5D:DF:08:76:42,,10 Septiembre,1215,4GB,SODI
+Marini,Recepción 1° centro ,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1GB,10.254.18.184,D4:5D:DF:08:76:3E,,11 Septiembre,1215,4GB,SODI
+Marini,Recepción 1° derecha,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1GB,10.254.18.178,D4:5D:DF:08:77:59,,11 Septiembre,1215,4GB,SODI
+Marini,Asistente dirección ,Lenovo Notebok 20NES15F00,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.164,54:05:DB:68:68:90,,11 Septiembre,3733,8GB,SODI
+Marini,Jefatura,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,Cableada,1GB,10.254.18.167,E8:80:88:D2:95:ED,,11 Septiembre,17366,6GB,SODI
+Marini,Cons 24 ,,,ACER ATOM,,,,,,,,11 Septiembre,125,,
+Marini,Cons 35,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.232,D4:5D:DF:08:76:2D,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 26,Desktop Lenovo,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 2GB,SSD 120 GB,Cableada,100MB,10.254.18.176,70:F3:95:1D:B5:60,,11 Septiembre,1973,2GB,DIMM
+Marini,Cons 26, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,100MB,10.254.18.149,54:B2:03:04:2A:94,,11 Septiembre,2629,4GB,SODI
+Marini,Cons 27,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.175,D4:5D:DF:08:76:86,,11 Septiembre,1215,4GB,SODI
+Marini,Gimnasio PB,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,100MB,10.254.18.200,D4:5D:DF:08:75:9E,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 22,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.18.132,08:3A:88:6C:73:7D,,11 Septiembre,7270,8GB,SODI
+Marini,Gimnasio PB 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.238,54:B2:03:05:5E:2C,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 31,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.177,6C:24:08:6E:00:DA,,11 Septiembre,15758,8GB,SODI
+Marini,Cons 32,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.131,6C:24:08:6D:FC:AE,,11 Septiembre,15758,8GB,SODI
+Marini,Jefe Kinesiologia,,,AMD Sempron(tm) 145 Processor,,,,,,,,11 Septiembre,540,,
+Marini,Laboratorio Protesis,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.223,D4:5D:DF:08:75:A4,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 14,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,,,D4:5D:DF:08:74:2D,,10 Septiembre,1215,4GB,SODI
+Marini,Cons 33,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,,10.254.18.131,6C:24:08:77:2C:BC,,11 Septiembre,15758,8GB,SODI
+Marini,Cons 16,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.155,6C:24:08:6D:FB:99,,11 Septiembre,15758,8GB,SODI
+Marini,Vacunacion ,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,,08:BF:B8:1D:E0:4A,,11 Septiembre,15982,8GB,DIMM
+Marini,Cons 30,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.180,D4:5D:DF:08:76:34,,11 Septiembre,1215,4GB,SODI
+Marini,Vacunacion ,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100MB,10.254.18.187,6C:24:08:77:32:1D,,11 Septiembre,15758,8GB,SODI
+Marini,Ventanilla,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.134,08:BF:B8:1D:E1:06,,11 Septiembre,15982,8GB,DIMM
+Marini,Ventanilla 2 ,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.137,08:BF:B8:1D:DF:E7,,11 Septiembre,15982,8GB,DIMM
+Marini,Cons 28,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.166,D4:5D:DF:08:77:25,,11 Septiembre,1215,4GB,SODI
+Marini,Ventanilla 3,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.193,D4:5D:DF:08:77:10,,11 Septiembre,1215,4GB,SODI
+Marini,Ventanilla A,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.160,08:BF:B8:1D:E0:B8,,11 Septiembre,15982,8GB,DIMM
+Marini,Ventanilla B,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1GB,10.254.18.152,08:BF:B8:1D:DF:98,,11 Septiembre,15982,8GB,DIMM
+Marini,Cons 23,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.143,08:BF:B8:1D:E0:C2,,11 Septiembre,15982,8GB,DIMM
+Marini,Cons 39,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.230,54:B2:03:05:5F:A4,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 29,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.195,54:B2:03:05:5E:3F,,11 Septiembre,1215,4GB,SODI
+Marini,Fisiatria,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,100MB,10.254.18.143,D4:5D:DF:08:75:98,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 15,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100MB,10.254.18.170,08:3A:88:6C:54:E5,,11 Septiembre,7270,8GB,SODI
+Marini,Fondo Ventanilla,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,Cableada,1GB,10.254.18.182,D4:5D:DF:08:77:64,,11 Septiembre,1215,4GB,SODI
+Marini,CUD,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HDD 500 GB,Cableada,1GB,10.254.18.224,54:B2:03:05:5F:A1,,11 Septiembre,1215,4GB,SODI
+Marini,Cons 34, LENOVO 10B4A0DEAC,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1GB,10.254.18.145,44:37:E6:DC:A6:C1,,11 Septiembre,1882,4GB,DIMM
+Marini,Cons 5, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HDD 500 GB,Cableada,100MB,10.254.18.162,00:71:C2:49:2C:0F,,11 Septiembre,1664,4GB,SODI
+Marini,Cons 5 ,System manufacturer,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 4GB,HDD 1 TB,Cableada,1GB,10.254.18.185,E0:3F:49:55:B0:4F,,11 Septiembre,2459,4GB,DIMM
+Marini,Cons 12, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 8GB,SSD 250 GB,Cableada,100MB,10.254.18.213,00:71:C2:49:2C:12,,11 Septiembre,1664,8GB,SODI
+Marini,Cons 11,MSI,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HDD 1 TB,Cableada,1GB,10.254.18.226,4C:CC:6A:D7:1D:A5,,11 Septiembre,4307,4GB,DIMM
+Marini,Cons 6, LENOVO 10B4A0DEAC,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100MB,10.254.18.211,44:37:E6:DC:A9:76,,11 Septiembre,1882,4GB,DIMM
+Marini,,,,,,,,,,,,11 Septiembre,,,
+Marini,"Faltan 4,7, 8, 3, 9",,,,,,,,,,,11 Septiembre,,,
+Zoonosis,Direccion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,100Mb,10.254.14.13,08:BF:B8:1D:E2:EA,,16/09/2025,15982,8GB,DIMM
+Zoonosis,Ecografia,Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz,DIMM DDR3 4GB,HDD 1 TB,Cableada,1Gb,10.254.14.5,18:C0:4D:86:DF:07,,16/09/2025,6580,4GB,DIMM
+Zoonosis,Oficina administracion (cartel direccion),Desktop,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,100Mb,10.254.14.20,BC:5F:F4:4E:2A:AF,,16/09/2025,1350,4GB,DIMM
+Zoonosis,Direccion,Lenovo Notebok 20NES15F00,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.254.14.15,54:05:DB:68:5C:4D,,16/09/2025,3733,8GB,SODI
+Zoonosis,Recepcion,Desktop Lenovo,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 4GB,SSD 120 GB,Cableada,100Mb,10.254.14.14,70:85:C2:42:9D:D5,,16/09/2025,5476,4GB,DIMM
+Zoonosis,Direccion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.14.17,08:BF:B8:1D:E0:17,,16/09/2025,15982,8GB,DIMM
+Zoonosis,Recepcion,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,100Mb,10.254.14.3,08:3A:88:6C:51:38,,16/09/2025,7270,8GB,SODI
+Zoonosis,Oficina administracion (cartel direccion),Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.14.16,08:3A:88:6C:5B:ED,,16/09/2025,7270,8GB,SODI
+Zoonosis,Vacunatorio,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,Cableada,1Gb,10.254.14.19,D4:5D:DF:08:76:3B,,16/09/2025,1215,4GB,SODI
+Zoonosis,Direccion,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.14.9,08:BF:B8:1D:E1:A5,,16/09/2025,15982,8GB,DIMM
+Zoonosis,Direccion,Notebook,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz,SODIMM DDR4 8GB,M2 500 GB,Cableada,100Mb,10.254.14.21,48:2A:E3:66:4D:30,,16/09/2025,5807,8GB,SODI
+Zoonosis,Cons 2,Desktop,Microsoft Windows 7 Professional,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 4GB,HDD 1 TB,Cableada,1Gb,10.254.14.38,70:85:C2:42:9D:DF,,16/09/2025,5476,4GB,DIMM
+Zoonosis,Cons 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,Cableada,1Gb,10.254.14.22,54:B2:03:05:5E:2F,,16/09/2025,1215,4GB,SODI
+Cabral,,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.74.55,F4:4D:30:AD:85:05,,16/09/2025,5476,8GB,DIMM
+Cabral,,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.74.58,F4:4D:30:AD:F5:68,,16/09/2025,5476,8GB,DIMM
+Cabral,,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,SSD 120 GB,Cableada,1Gb,10.254.74.61,F4:4D:30:AD:83:8E,,16/09/2025,5476,8GB,DIMM
+Cabral,,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HDD 500 GB,Cableada,1Gb,10.254.74.52,40:8D:5C:9D:1D:F0,,16/09/2025,2017,4GB,DIMM
+Cabral,,Exo All in One,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,DIMM DDR4 8GB,HDD 500 GB,Cableada,1Gb,10.254.74.60,F4:4D:30:AD:93:C8,,16/09/2025,5476,8GB,DIMM
+Cabral,,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,100Mb,10.254.74.57,6C:24:08:6D:FB:2C,,16/09/2025,15758,8GB,SODI
+Cabral,,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.74.51,6C:24:08:B9:CB:8F,,16/09/2025,9195,8GB,SODI
+Burman,,LENOVO Desktop 10B4A04DAC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 8GB,HDD 500 GB,Cableada,1Gb,10.254.28.99,D0:27:88:90:6D:68,,Online,3329,8GB,DIMM
+Burman,,Lenovo Notebok 20NES15F00,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 250 GB,Inalambrica,400Mb,10.254.28.108,54:05:DB:68:61:8A,,Online,3733,8GB,SODI
+Burman,,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.28.101,00:23:24:75:4B:2E,,Online,2896,4GB,SODI
+Burman,,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.28.98,08:3A:88:6C:8F:5B,,Online,7270,8GB,SODI
+Burman,,LENOVO 10AX004CAS Desktop,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz,SODIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.28.93,D8:CB:8A:20:8F:CC,,Online,3234,4GB,SODI
+Burman,,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.28.104,08:BF:B8:1D:E0:FA,,Online,15982,8GB,DIMM
+Burman,,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.28.94,6C:24:08:B9:C8:C8,,Online,9195,8GB,SODI
+Burman,,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.28.107,6C:24:08:77:2B:7F,,Online,15758,8GB,SODI
+Burman,,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,Cableada,1Gb,10.254.28.91,C8:7F:54:AC:A9:B2,,Online,15982,8GB,DIMM
+Burman,,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.28.92,6C:24:08:B9:C1:06,,Online,9195,8GB,SODI
+Burman,,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.28.96,6C:24:08:B9:C4:64,,Online,9195,8GB,SODI
+Burman,,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,Cableada,1Gb,10.254.28.95,6C:24:08:6D:FB:CB,,Online,15758,8GB,SODI
+Burman,,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HDD 500 GB,Cableada,1Gb,10.254.28.112,40:8D:5C:9A:C5:B1,,Online,2017,6GB,DIMM
+Burman,,Mini Lenovo 11JKS1U800,"	Microsoft Windows 11 Pro",AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,Cableada,,10.254.28.102,08:3A:88:6C:6D:A5,,Online,7270,8GB,SODI
+Burman,,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,Cableada,100Mb,10.254.28.97,E8:80:88:BD:25:E9,,Online,17366,6GB,SODI
+Burman,,Lenovo Notebok 20NES15F00,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 250 GB,Inalambrica,400Mb,10.254.28.190,"
+C6:5B:5A:DF:58:33",,Online,3733,8GB,SODI
+Burman,,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,Cableada,100Mb,10.254.28.193,30:05:05:E6:AB:EF,,Online,17366,6GB,SODI
+Burman,,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,SSD 120 GB,Cableada,1Gb,10.254.28.203,F8:16:54:EE:12:72,,Online,2896,4GB,SODI
+Hospital,FACTURACION1,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.130,08:3A:88:6C:57:0E,,,7270,8GB,SODI
+Hospital,FACTURACION3,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.137,08:3A:88:6C:5F:92,,,7270,8GB,SODI
+Hospital,FACTURACION5,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.91,08:3A:88:6E:25:87,,,7270,8GB,SODI
+Hospital,FACTURACION7,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.148,08:3A:88:6C:58:B3,,,7270,8GB,SODI
+Hospital,FACTURACION9,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.197,08:3A:88:6C:81:47,,,7270,8GB,SODI
+Hospital,FACTURACION11,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.165,08:3A:88:6C:8F:A3,,,7270,8GB,SODI
+Hospital,FACTURACION2,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.147,08:3A:88:6C:4A:FB,,,7270,8GB,SODI
+Hospital,FACTURACION4,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.39.189,08:3A:88:68:19:E0,,,7270,8GB,SODI
+Hospital,FACTURACION6,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.116,08:3A:88:6C:5E:7D,,,7270,8GB,SODI
+Hospital,FACTURACION8,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.39.89,08:3A:88:6C:5A:57,,,7270,8GB,SODI
+Hospital,FACTURACION10,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.39.152,08:3A:88:6C:4E:72,,,7270,8GB,SODI
+Hospital,FACTURACION12,,,,,,,,,,,,,,
+Hospital,PAMI,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.167,08:BF:B8:1E:07:E8,,,15982,8GB,DIMM
+Hospital,PAMI,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.39.47,6C:24:08:6D:FA:2A,,,15758,8GB,SODI
+Hospital,PAMI,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.182,88:A4:C2:5A:F0:96,,,15758,8GB,SODI
+Hospital,PAMI,LENOVO MiniPC 11T4S0K900,Microsoft Windows 10 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.235,6C:24:08:6D:FB:96,,,15758,8GB,SODI
+Hospital,PAMI,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.39.219,D8:5E:D3:19:84:49,,,12005,8GB,DIMM
+Hospital,PAMI,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.39.19,08:BF:B8:1D:E5:79,,,15982,8GB,DIMM
+Hospital,PAMI,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.124,08:BF:B8:1D:E0:47,,,15982,8GB,DIMM
+Hospital,PAMI,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.67,08:BF:B8:1D:D8:A0,,,15982,8GB,DIMM
+Hospital,PAMI,LENOVO MiniPC 11T4S0K900,Microsoft Windows 10 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.39.135,6C:24:08:6D:FD:70,,,15758,8GB,SODI
+Hospital,PAMI,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.39.49,6C:24:08:B9:C0:28,,,9195,8GB,SODI
+Hospital,PAMI,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,SSD 120 GB,,,10.254.39.193,D4:5D:DF:08:75:AE,,,1215,8GB,SODI
+Hospital,ADMINISTRACION ESTADISTICA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.214.115,08:BF:B8:1D:E1:4C,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION ESTADISTICA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.214.101,6C:24:08:B9:C0:1B,,,9195,8GB,SODI
+Hospital,ADMINISTRACION ESTADISTICA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.214.118,08:BF:B8:1B:3F:19,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION ESTADISTICA,LENOVO 10B1A055AC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 4GB,HD 500 GB,,,10.254.39.171,44:37:E6:DC:CD:6F,,,3329,4GB,DIMM
+Hospital,SAME,Lenovo Notebok 20NES15F00,Microsoft Windows 10 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 250 GB,,,10.254.214.107,54:05:DB:68:6B:35,,,3733,8GB,SODI
+Hospital,SAME,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.214.109,08:BF:B8:1D:D8:A5,,,15982,8GB,DIMM
+Hospital,SAME,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.214.116,08:BF:B8:1D:D6:F1,,,15982,8GB,DIMM
+Hospital,GUARDIA RECEPCION,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 120 GB,,,10.254.210.33,1C:1B:0D:9C:40:F1,,,3635,4GB,DIMM
+Hospital,GUARDIA RECEPCION,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.42,08:3A:88:6C:64:88,,,7270,8GB,SODI
+Hospital,GUARDIA RECEPCION,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.73,08:3A:88:6C:5A:4C,,,7270,8GB,SODI
+Hospital,GUARDIA RECEPCION,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.28,08:3A:88:6C:51:DD,,,7270,8GB,SODI
+Hospital,GUARDIA ROJO JEFE MEDICO,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.236,08:BF:B8:1D:DE:CC,,,15982,8GB,DIMM
+Hospital,GUARDIARO JOJEFE ENFERMEROS,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.190,08:3A:88:6C:5A:30,,,7270,8GB,SODI
+Hospital,GUARDIAROJO ISLA ENFERMEROS, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.14,54:B2:03:04:2A:D6,,,2629,4GB,SODI
+Hospital,GUARDIA ROJO OFFICE MEDICOS,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.103,6C:24:08:B9:C5:60,,,9195,8GB,SODI
+Hospital,GUARDIA ROJO OFFICE MEDICOS,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.100,6C:24:08:B9:C2:7F,,,9195,8GB,SODI
+Hospital,GUARDIA ROJO OFFICE MEDICOS,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.255.208.18,08:BF:B8:1D:DE:CA,,,15982,8GB,DIMM
+Hospital,GUARDIA AMARILLO OFFICE ENFERMERIA,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.254.210.157,E8:80:88:D2:91:63,,,17366,6GB,SODI
+Hospital,GUARDIA AMARILLO OFFICE ENFERMERIA,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.254.210.159,E8:80:88:BD:28:F2,,,17366,6GB,SODI
+Hospital,GUARDIA AMARILLO OFFICE MEDICOS,A. Megatrend,Microsoft Windows 10 Pro,"	Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz",DIMM DDR3 8GB,SSD 500 GB,,,10.254.39.133,BC:5F:F4:53:56:40,,,4102,8GB,DIMM
+Hospital,GUARDIA AMARILLO OFFICE MEDICOS,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.39.59,08:BF:B8:1D:DE:C8,,,15982,8GB,DIMM
+Hospital,GUARDIA AMARILLO OFFICE MEDICOS,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.106,6C:24:08:6D:FC:06,,,15758,8GB,SODI
+Hospital,GUARDIA VERDE1,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.245,08:3A:88:6C:8E:3D,,,7270,8GB,SODI
+Hospital,GUARDIA VERDE2,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.83,08:3A:88:6C:74:30,,,7270,8GB,SODI
+Hospital,EPIDEMIOLOGÍA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.172,08:BF:B8:1D:E0:BD,,,15982,8GB,DIMM
+Hospital,EPIDEMIOLOGÍA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.39.69,08:BF:B8:1D:DF:A0,,,15982,8GB,DIMM
+Hospital,EPIDEMIOLOGÍA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.133,6C:24:08:AF:32:73,,,9195,8GB,SODI
+Hospital,EPIDEMIOLOGÍA,,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.202,C8:7F:54:AC:C0:5A,,,15982,8GB,DIMM
+Hospital,EPIDEMIOLOGÍA, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 8GB,SSD 250 GB,,,10.254.39.242,F0:03:8C:D9:CC:EC,,,2629,8GB,SODI
+Hospital,EPIDEMIOLOGÍA,Desktop Generico,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3250 CPU @ 3.50GHz,DIMM DDR3 8GB,SSD 120 GB,,,10.254.38.217,E0:3F:49:55:B0:4E,,,2459,8GB,DIMM
+Hospital,EPIDEMIOLOGÍA,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.94,08:3A:88:6C:50:21,,,7270,8GB,SODI
+Hospital,EPIDEMIOLOGÍA,Desktop Generico,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,DIMM DDR3 8GB,SSD 250 GB,,,10.254.39.20,D0:50:99:4B:C0:9D,70931,25/09/2025,3582,8GB,DIMM
+Hospital,GUARDIA VERDE 3,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,,,,,7270,8GB,SODI
+Hospital,GUARDIA VERDE 4,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.84,08:3A:88:6C:53:4A,,,7270,8GB,SODI
+Hospital,GUARDIA VERDE 5,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.25,08:3A:88:6C:8C:76,,,7270,8GB,SODI
+Hospital,GUARDIA VERDE 6,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.13,08:3A:88:6C:8C:43,,,7270,8GB,SODI
+Hospital,GUARDIA VERDE TRIAGE,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.31,08:3A:88:6C:56:B7,,,7270,8GB,SODI
+Hospital,ADMINISTRACION COMPRAS,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.214.113,08:BF:B8:1E:05:0B,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION ADMINISTRADORA,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.146,6C:24:08:B9:C8:CC,,,3733,8GB,SODI
+Hospital,ADMINISTRACION COMPRAS,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.214.103,D8:5E:D3:19:88:98,,,12005,8GB,DIMM
+Hospital,ADMINISTRACION COMPRAS,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 8GB,SSD 250 GB,,,10.254.214.105,00:23:24:73:10:24,,,2896,8GB,SODI
+Hospital,ADMINISTRACION COMPRAS,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.214.112,08:BF:B8:1D:DB:F5,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION PATRIMONIO, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.38.140,54:B2:03:04:2B:B1,,,2629,4GB,SODI
+Hospital,ADMINISTRACION SERVICIOS GENERALES,Lenovo 3484BNY,Microsoft Windows 10 Pro,"
+Intel(R) Pentium(R) CPU G645 @ 2.90GHz",DIMM DDR3 3GB,HD 500 GB ,,,10.254.39.68,74:27:EA:AB:D4:6D,,,1441,3GB,DIMM
+Hospital,ADMINISTRACION GESTION DEL PACIENTE,LENOVO 10B1A055AC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.214.114,44:37:E6:DC:A1:55,,,3329,4GB,DIMM
+Hospital,ADMINISTRACION GESTION DEL PACIENTE,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.179,54:B2:03:05:5F:2D,,,1215,4GB,SODI
+Hospital,ADMINISTRACION TURNOS TELEFONICOS,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.208.13,6C:24:08:AF:23:F3,,,9195,8GB,SODI
+Hospital,ADMINISTRACION TURNOS TELEFONICOS,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,SSD 120 GB,,,10.254.208.19,54:B2:03:05:5F:9C,,,1215,8GB,SODI
+Hospital,ADMINISTRACION TURNOS TELEFONICOS,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.208.6,6C:24:08:B9:CB:1E,,,9195,8GB,SODI
+Hospital,PLAN SUMAR,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.208.18,08:3A:88:6E:25:54,,,7270,8GB,SODI
+Hospital,PLAN SUMAR,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.208.5,08:BF:B8:1D:E5:4E,,,15982,8GB,DIMM
+Hospital,PLAN SUMAR,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.208.21,08:BF:B8:1E:08:1A,,,15982,8GB,DIMM
+Hospital,GUARDIAVERDE ENFERMERIA,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.206,08:3A:88:6C:8A:FE,,,7270,8GB,SODI
+Hospital,CONSULTORIOPEDIATRIAENFERMERIA CONSULTORIOS,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.39.147,6C:4B:90:0A:D9:5D,,,4307,4GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.51,08:BF:B8:1D:E4:55,,,15982,8GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 2,Lenovo 10M8S00E00,WIN 8 / OTROS,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HDD 1 TB,,,10.254.38.95,6C:4B:90:0A:D8:1A,,,4307,4GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 3,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HD 500 GB ,,,10.254.213.114,40:8D:5C:9D:1E:B7,,,2017,6GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 4,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 120 GB,,,10.254.38.153,1C:1B:0D:99:22:27,,,3635,4GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 5,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.41,D4:5D:DF:08:75:95,,,1215,4GB,SODI
+Hospital,CONSULTORIO PEDIATRIA 6,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.154,6C:24:08:6D:FC:05,,,15758,8GB,SODI
+Hospital,CONSULTORIO PEDIATRIA 7,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.150,D4:5D:DF:08:76:2E,,,1215,4GB,SODI
+Hospital,CONSULTORIO PEDIATRIA 8,,,,,,,,,,,,,,
+Hospital,CONSULTORIO PEDIATRIA 9,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.210.76,1C:1B:0D:99:BB:BC,,,3635,4GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 10,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.210.187,6C:4B:90:0A:C8:F5,,,4307,4GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 11,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.39.12,08:BF:B8:1E:01:27,,,15982,8GB,DIMM
+Hospital,CONSULTORIO PEDIATRIA 12,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.210.34,6C:4B:90:0A:DC:99,,,4307,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA 14,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.153,6C:24:08:6D:FB:45,,,15758,8GB,SODI
+Hospital,GUARDIA PEDIATRIA 15,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.39.197,6C:4B:90:0A:D9:06,,,4307,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA 16,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.38.238,6C:4B:90:0A:D8:4E,,,4307,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA ENFERMERIA GUARDIA,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.210.66,1C:1B:0D:E3:C5:F4,,,3635,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA RECEPCION 1,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.210.108,1C:1B:0D:99:7C:A7,,,3635,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA RECEPCION 2,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.210.63,6C:4B:90:0A:D8:19,,,4307,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA 17,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.39.106,6C:4B:90:0A:D9:49,,,4307,4GB,DIMM
+Hospital,GUARDIA PEDIATRIA 18,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.210.132,6C:4B:90:0A:D8:83,,,4307,4GB,DIMM
+Hospital,ENFERMERIA ENFERMERIA SAME,"Hewlett-Packard	20-b003la",Microsoft Windows 10 Pro,AMD E1-1200 APU,DIMM DDR3 8GB,HD 500 GB ,,,10.254.210.185,4C:72:B9:C6:F6:0F,,,382,8GB,DIMM
+Hospital,ENFERMERIA ENFERMERIA,AM1M-S2H,Microsoft Windows 10 Pro,AMD Athlon(tm) 5150,DIMM DDR3 6GB,SSD 250 GB,,,10.254.210.165,1C:1B:0D:1E:8F:71,,,1410,6GB,DIMM
+Hospital,ENFERMERIA ENFERMERIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,,80:C5:F2:96:28:71,,,1215,4GB,SODI
+Hospital,ENFERMERIA ENFERMERIA,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,SSD 250 GB,,,10.254.210.127,FC:4D:D4:34:7C:E6,,,1973,4GB,DIMM
+Hospital,ADMINISTRACION REGION V,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.82,6C:24:08:6D:F9:6D,,,15758,8GB,SODI
+Hospital,ADMINISTRACION DIRECCION BATTAGLIA,Lenovo Notebok 20NES15F00,Microsoft Windows 11 Pro,AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx with Radeon Vega Graphics,SODIMM DDR4 4GB,M2 250 GB,,,10.255.209.227,00:09:0F:AA:00:01,,,3733,4GB,SODI
+Hospital,ADMINISTRACION DIRECCION CALLAN,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.201,D4:5D:DF:08:77:55,,,1215,4GB,SODI
+Hospital,ADMINISTRACION DIRECCION SECRETARIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.96,D4:5D:DF:08:77:47,,,1215,4GB,SODI
+Hospital,ADMINISTRACION DIRECCION SECRETARIA  2,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HDD 1 TB,,,10.254.210.219,44:37:E6:B4:3C:9F,,,1973,4GB,DIMM
+Hospital,ADMINISTRACION RRHH,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.58,6C:24:08:B9:C4:6C,,,9195,8GB,SODI
+Hospital,ADMINISTRACION RRHH,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.74,08:3A:88:6C:4C:9A,,,7270,8GB,SODI
+Hospital,ADMINISTRACION RRHH,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.44,08:BF:B8:1B:36:67,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION RRHH,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.60,08:BF:B8:1D:E4:48,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION RRHH, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.210.129,00:71:C2:2A:BD:15,,,1664,4GB,SODI
+Hospital,ADMINISTRACION RRHH DESCONECTADO,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,,88:AD:43:F5:C5:DC,,,1215,4GB,SODI
+Hospital,ADMINISTRACION RRHH DESCONECTADO,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,,,,,1215,4GB,SODI
+Hospital,ADMINISTRACION ADMISION, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.210.106,10:05:01:9F:E6:09,,,2629,4GB,SODI
+Hospital,ADMINISTRACION ADMISION, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 8GB,SSD 250 GB,,,10.254.210.155,74:C6:3B:69:40:CE,,,2629,8GB,SODI
+Hospital,ADMINISTRACION ADMISION,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.21,08:3A:88:6C:57:9B,,,7270,8GB,SODI
+Hospital,ADMINISTRACION ADMISION,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.55,08:BF:B8:1B:3E:BD,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION LEGALES,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.77,44:37:E6:BE:8C:B1,,,1973,4GB,DIMM
+Hospital,ADMINISTRACION LEGALES, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.197,54:B2:03:04:2B:17,,,2629,4GB,SODI
+Hospital,ADMINISTRACION LEGALES, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.53,54:B2:03:04:2A:CB,,,2629,4GB,SODI
+Hospital,ADMINISTRACION LEGALES,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.40,6C:24:08:6D:FB:CA,,,15758,8GB,SODI
+Hospital,ATENCION AL VECINO STAND,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.23,6C:24:08:6D:FE:46,,,15758,8GB,SODI
+Hospital,ATENCION AL VECINO STAND,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.93,6C:24:08:62:40:D2,,,15758,8GB,SODI
+Hospital,NFECTOLOGIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.99,08:BF:B8:1D:E2:7D,,,15982,8GB,DIMM
+Hospital,INFECTOLOGIA,LENOVO mini 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.210.210,48:51:B7:E5:1C:70,,,2896,4GB,SODI
+Hospital,NFECTOLOGIA,,,,,,,,,,,,,,
+Hospital,NFECTOLOGIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.70,08:BF:B8:1D:E1:57,,,15982,8GB,DIMM
+Hospital,INFECTOLOGIA,LENOVO 10B4A04DAC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.70.208.147,D8:CB:8A:B8:51:FE,,,3329,4GB,DIMM
+Hospital,FARMACIA,Desktop Generico,Microsoft Windows 10 Pro,AMD Sempron(tm) 2650 APU with Radeon(tm) R3,DIMM DDR3 8GB,HD 1 TB,,,10.254.213.119,2C:4D:54:59:CA:43,,,522,8GB,DIMM
+Hospital,FARMACIA,,,,,,,,,,,,,,
+Hospital,FARMACIA,Lenovo 3484BNY,Microsoft Windows 10 Pro,"
+Intel(R) Pentium(R) CPU G645 @ 2.90GHz",DIMM DDR3 4GB,SSD 120 GB,,,10.254.38.212,74:27:EA:AB:DD:C9,,,,4GB,DIMM
+Hospital,CONSULTORIO SERVICIO SOCIAL 1,HP Pro3500 Series,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G640 @ 2.80GHz,DIMM DDR3 6GB,HD 500 GB ,,,10.70.208.138,D4:C9:EF:F0:EF:46,,,1368,6GB,DIMM
+Hospital,CONSULTORIO SERVICIO SOCIAL 2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.213.113,08:BF:B8:1D:DE:C7,,,15982,8GB,DIMM
+Hospital,CONSULTORIO SERVICIO SOCIAL 3, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.38.198,54:B2:03:04:2B:DB,,,2629,4GB,SODI
+Hospital,CONSULTORIO SERVICIO SOCIAL 3b,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.172,88:AD:43:F5:C7:52,,,1215,4GB,SODI
+Hospital,CONSULTORIO SERVICIO SOCIAL 4, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.38,54:B2:03:04:2B:8B,,,2629,4GB,SODI
+Hospital,QUIROFANO D,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.45,08:BF:B8:1E:07:C4,,,15982,8GB,DIMM
+Hospital,QUIROFANO F,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.39,08:BF:B8:1B:3B:5A,,,15982,8GB,DIMM
+Hospital,ADMINISTRACION LEGALES,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.168,6C:24:08:B9:C4:D0,,,9195,8GB,SODI
+Hospital,ADMINISTRACION ADMISION,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.184,D4:5D:DF:08:76:19,,,1215,4GB,SODI
+Hospital,ADMINISTRACION LEGALES,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.212,D4:5D:DF:08:75:A8,,,1215,4GB,SODI
+Hospital,QUIROFANO E,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.160,08:BF:B8:3E:AD:AF,,,15982,8GB,DIMM
+Hospital,QUIROFANO G,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.30,08:BF:B8:1D:D7:70,,,15982,8GB,DIMM
+Hospital,QUIROFANO H,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.134,08:BF:B8:1D:E1:52,,,15982,8GB,DIMM
+Hospital,QUIROFANO INSTRUMENTADORAS,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.128,D4:5D:DF:08:77:14,,,1215,4GB,SODI
+Hospital,QUIROFANO INSTRUMENTADORAS, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 8GB,HD 500 GB ,,,10.254.210.144,54:B2:03:04:2C:01,,,2629,8GB,SODI
+Hospital,QUIROFANO INSTRUMENTADORAS, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.210.25,00:E0:99:08:C7:0B,,,1664,4GB,SODI
+Hospital,QUIROFANO JEFA INSTRUMENTADORAS,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.172,D4:5D:DF:08:77:13,,,1215,4GB,SODI
+Hospital,INTERNACION UCO SECRETARIA,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.61,6C:24:08:6D:FC:15,,,15758,8GB,SODI
+Hospital,INTERNACION UCO ENFERMERIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.49,08:BF:B8:1D:D8:D2,,,15982,8GB,DIMM
+Hospital,INTERNACION UCO ENFERMERIA, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.210.35,00:71:C2:4A:94:36,,,1664,4GB,SODI
+Hospital,INTERNACION UCO MEDICOS,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.114,08:BF:B8:1D:D9:2F,,,15982,8GB,DIMM
+Hospital,INTERNACION UCO MEDICOS, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.210.35,00:71:C2:4A:94:36,,,1664,4GB,SODI
+Hospital,INTERNACION UCO JEFE,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.100,6C:24:08:B9:C8:B8,,,9195,8GB,SODI
+Hospital,INTERNACION UCO ENFERMERIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.95,08:BF:B8:3E:AE:34,,,15982,8GB,DIMM
+Hospital,CONSULTORIO KINESIOLOGIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.54,D4:5D:DF:08:74:EE,,,1215,4GB,SODI
+Hospital,CONSULTORIO KINESIOLOGIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.171,6C:24:08:B9:C9:0F,,,9195,8GB,SODI
+Hospital,CONSULTORIO KINESIOLOGIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.45,74:C6:3B:B9:37:FC,,,1215,4GB,SODI
+Hospital,CONSULTORIO KINESIOLOGIA,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 120 GB,,,10.254.39.152,1C:1B:0D:E3:C6:11,,,3635,4GB,DIMM
+Hospital,HEMODINAMIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.37,6C:24:08:B9:BF:5B,,,9195,8GB,SODI
+Hospital,CONSULTORIO KINESIOLOGIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.136,08:BF:B8:1D:DE:BD,,,15982,8GB,DIMM
+Hospital,INTERNACION UTI SUBJEFE TERAPIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.208.28,D4:5D:DF:08:75:96,,,1215,4GB,SODI
+Hospital,INTERNACION UTI,Desktop MS-7C96,Microsoft Windows 11 Pro,AMD Ryzen 3 3200G with Radeon Vega Graphics,DIMM DDR4 8GB,SSD 250 GB,,,10.254.208.16,D8:43:AE:BB:D2:EC,,,7005,8GB,DIMM
+Hospital,INTERNACION UTI,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.208.31,08:BF:B8:1D:E6:75,,,15982,8GB,DIMM
+Hospital,INTERNACION UTI, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.255.209.199,DC:85:DE:F0:02:DA,,,1664,4GB,SODI
+Hospital,INTERNACION UTI JEFE TERAPIA,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.255.208.70,30:05:05:DF:06:AB,,,17366,6GB,SODI
+Hospital,QUIROFANO C,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.11,08:BF:B8:1D:DE:CE,,,15982,8GB,DIMM
+Hospital,INTERNACION UTI,Desktop MS-7C96,Microsoft Windows 11 Pro,AMD Ryzen 3 3200G with Radeon Vega Graphics,DIMM DDR4 8GB,SSD 250 GB,,,10.254.208.27,D8:43:AE:BB:D0:F1,,,7005,8GB,DIMM
+Hospital,INTERNACION UTI,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.254.208.33,E8:80:88:BD:26:03,,,17366,6GB,SODI
+Hospital,INTERNACION UTI,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.208.2,08:BF:B8:3E:AA:2D,,,15982,8GB,DIMM
+Hospital,INTERNACION UTI JEFATURA UTI,Desktop Asus,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.208.5,B0:A7:B9:CE:77:37,,,15982,8GB,DIMM
+Hospital,INTERNACION UTI,Desktop MS-7C96,Microsoft Windows 11 Pro,AMD Ryzen 3 3200G with Radeon Vega Graphics,DIMM DDR4 8GB,SSD 250 GB,,,10.254.208.12,34:5A:60:18:BA:8F,,,7005,8GB,DIMM
+Hospital,INTERNACION UTI,Desktop MS-7C96,Microsoft Windows 11 Pro,AMD Ryzen 3 3200G with Radeon Vega Graphics,DIMM DDR4 8GB,SSD 250 GB,,,10.254.208.22,D8:43:AE:BB:D0:F3,,,7005,8GB,DIMM
+Hospital,QUIROFANO, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.255.208.240,80:C5:F2:96:1D:CF,,,2629,4GB,SODI
+Hospital,FARMACIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.105,6C:24:08:B9:C7:C8,,,9195,8GB,SODI
+Hospital,FARMACIA,Desktop Generico,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz,DIMM DDR3 4GB,SSD 250 GB,,,10.254.38.207,D0:50:99:03:67:E2,,,2348,4GB,DIMM
+Hospital,FARMACIA,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 16GB,SSD 500 GB,,,10.254.38.135,D8:5E:D3:68:BE:D6,,,12005,6GB,DIMM
+Hospital,FARMACIA,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.213.118,6C:24:08:6A:74:7D,,,15758,8GB,SODI
+Hospital,FARMACIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.248,08:BF:B8:1D:E1:F7,,,15982,8GB,DIMM
+Hospital,FARMACIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.39.188,54:B2:03:05:5F:31,,,1215,4GB,SODI
+Hospital,FARMACIA,Gigabyte,Microsoft Windows 10 Pro,AMD A4-7300 ,DIMM DDR3 4GB,HD 500 GB ,,,10.254.39.116,1C:1B:0D:C8:0B:81,,,1529,4GB,DIMM
+Hospital,FARMACIA,LENOVO 10B4001NAS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz,DIMM DDR3 8GB,SSD 500 GB,,,10.254.38.151,44:37:E6:E6:34:B2,,,3234,8GB,DIMM
+Hospital,FARMACIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.94,6C:24:08:B9:C5:48,,,9195,8GB,SODI
+Hospital,CONSULTORIO ONCOLOGIA 6,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.123,6C:24:08:AF:2A:76,,,9195,8GB,SODI
+Hospital,CONSULTORIO ONCOLOGIA SECRETARIA,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.43,6C:24:08:6D:FF:EA,,,15758,8GB,SODI
+Hospital,CONSULTORIO HEMATOLOGIA 7,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.52,6C:24:08:B9:C7:3F,,,9195,8GB,SODI
+Hospital,CONSULTORIO HEMATOLOGIA 9,LENOVO 10B1A055AC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.47,44:37:E6:DC:85:BC,,,3329,4GB,DIMM
+Hospital,CONSULTORIO HEMATOLOGIA SECRETARIA, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.182,10:05:01:9F:E6:0C,,,2629,4GB,SODI
+Hospital,CONSULTORIO HEMATOLOGIA 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.78,08:BF:B8:1D:E1:F4,,,15982,8GB,DIMM
+Hospital,CONSULTORIO HEMATOLOGIA 2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.81,08:BF:B8:1D:E1:50,,,15982,8GB,DIMM
+Hospital,CONSULTORIO ONCOLOGIA 3,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.62,08:BF:B8:1D:E0:CC,,,15982,8GB,DIMM
+Hospital,CONSULTORIO ONCOLOGIA 4,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.68,08:BF:B8:1D:DE:BA,,,15982,8GB,DIMM
+Hospital,CONSULTORIO ONCOLOGIA 5,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,SSD 120 GB,,,10.254.210.138,D4:5D:DF:08:77:15,,,1215,8GB,SODI
+Hospital,CONSULTORIO HEMATOLOGIA 8,,Microsoft Windows 10 Pro,AMD Athlon(tm) II X2,DIMM DDR2 4GB,HD 80 GB,,,10.254.210.94,BC:5F:F4:6A:2A:2C,,,1208,4GB,DIMM
+Hospital,CONSULTORIO ONCOLOGIA SECRETARIA,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 8GB,SSD 250 GB,,,10.254.210.138,40:8D:5C:9D:1E:5A,,,2017,8GB,DIMM
+Hospital,CONSULTORIO VACUNACION,,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.26,C8:7F:54:AC:A9:06,,,15982,8GB,DIMM
+Hospital,CONSULTORIO VACUNACION,Desktop Generico,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.216,D0:50:99:4B:C2:2E,,,3582,4GB,DIMM
+Hospital,CONSULTORIO VACUNACION,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,SSD 250 GB,Cableada,,10.254.210.217,54:B2:03:05:5F:A5,94636,25 septiembre,1215,8GB,SODI
+Hospital,CONSULTORIO VACUNACION,Desktop Generico,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,DIMM DDR3 8GB,SSD 250 GB,,,10.254.210.224,D0:50:99:4B:C1:A4,,,3582,8GB,DIMM
+Hospital,CONSULTORIO LACTARIO, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.226,54:B2:03:04:2A:9D,,,2629,4GB,SODI
+Hospital,INTERNACION CLINICA SECRETARIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.74,6C:24:08:B9:C4:65,,,9195,8GB,SODI
+Hospital,INTERNACION CLINICA SALA EVOLUCION,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.195,D4:5D:DF:08:76:CD,,,1215,4GB,SODI
+Hospital,INTERNACION CLINICA SALA EVOLUCION,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.208.14,D4:5D:DF:08:77:18,,,1215,4GB,SODI
+Hospital,INTERNACION CLINICA SALA EVOLUCION, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 250 GB,,,10.254.210.98,00:71:C2:49:2C:1F,,,1664,4GB,SODI
+Hospital,INTERNACION CLINICA SALA EVOLUCION, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.210.92,00:71:C2:4A:94:57,,,1664,4GB,SODI
+Hospital,INTERNACION CLINICA SALA 5,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.208.14,D4:5D:DF:08:77:18,,,1215,4GB,SODI
+Hospital,INTERNACION CLINICA SALA 5,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.208.15,FC:4D:D4:38:6D:E1,,,1973,4GB,DIMM
+Hospital,LABORATORIO JEFATURA,Lenovo 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 8GB,SSD 250 GB,,,10.254.39.134,70:F3:95:1D:83:67,,,1973,8GB,DIMM
+Hospital,INTERNACION UCO ERGOMETRO,,,,,,,,,,,,,,
+Hospital,INTERNACION UCO ECODOPPLER,,,,,,,,,,,,,,
+Hospital,INTERNACION UCO ECODOPPLER,,,,, ,,,,,,,,,
+Hospital,INTERNACION CLINICA SALA 5,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.208.17,44:37:E6:BE:46:C9,,,1973,4GB,DIMM
+Hospital,INTERNACION CLINICA SALA 5,AM1M-S2H,Microsoft Windows 10 Pro,AMD Athlon(tm) 5150,DIMM DDR3 4GB,SSD 120 GB,,,10.254.208.25,1C:1B:0D:1E:89:56,,,1410,4GB,DIMM
+Hospital,INTERNACION CLINICA JEFATURA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.81,08:BF:B8:1D:DE:C4,,,15982,8GB,DIMM
+Hospital,INTERNACION PEDIATRIA ESTAR MEDICO,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.27,6C:24:08:62:3C:52,,,15758,8GB,SODI
+Hospital,GUARDIA OESTE CONSULTORIO 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.76.110,08:BF:B8:1D:E0:2A,,,15982,8GB,DIMM
+Hospital,INTERNACION PEDIATRIA ESTAR MEDICO,,,,,,,,,,,,,,
+Hospital,INTERNACIONPEDIATRIAENFERMERIA PEDIATRIA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.230,D4:5D:DF:08:76:36,,,1215,4GB,SODI
+Hospital,INTERNACION CLINICA SALA 5,AM1M-S2H,Microsoft Windows 10 Pro,AMD Athlon(tm) 5150,DIMM DDR3 4GB,SSD 120 GB,,,10.254.208.30,1C:1B:0D:1D:A6:5A,,,1410,4GB,DIMM
+Hospital,INTERNACION CLINICA SALA 5,AM1M-S2H,Microsoft Windows 10 Pro,AMD Athlon(tm) 5150,DIMM DDR3 4GB,HD 1 TB,,,10.254.208.32,1C:1B:0D:1E:8F:75,,,1410,4GB,DIMM
+Hospital,INTERNACION CLINICA ENFERMERIA,LENOVO 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.89,D8:CB:8A:20:43:9C,,,2896,4GB,DIMM
+Hospital,INTERNACION CLINICA ENFERMERIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.18,08:BF:B8:1D:E5:4F,,,15982,8GB,DIMM
+Hospital,INTERNACION CLINICA ENFERMERIA,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,,,,,17366,6GB,SODI
+Hospital,INTERNACION PISO 2 SECRETARIA,LENOVO MiniPC 11T4S0K900,Microsoft Windows 11 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.51,88:A4:C2:58:B7:27,,,15758,8GB,SODI
+Hospital,INTERNACION PISO  2 OFFICE MEDICO, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.210.209,00:71:C2:4A:94:6F,,,1664,4GB,SODI
+Hospital,INTERNACION PISO  2 OFFICE MEDICO,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.254.210.41,E8:80:88:BD:26:F7,,,17366,6GB,SODI
+Hospital,INTERNACION PISO  2 OFFICE MEDICO,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.90.209.36,30:05:05:E6:AD:2F,,,17366,6GB,SODI
+Hospital,INTERNACION PISO 2 OFFICE MEDICO, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 8GB,HD 500 GB ,,,10.254.210.151,00:71:C2:49:2C:D9,,,1664,8GB,SODI
+Hospital,INTERNACION PISO 2 ENFERMERIA, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.210.22,00:71:C2:49:2D:D8,,,1664,4GB,SODI
+Hospital,INTERNACION PISO 2 ENFERMERIA,LENOVO 10B1A055AC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 8GB,HD 500 GB ,,,10.254.210.101,44:37:E6:DC:DD:FB,,,3329,8GB,DIMM
+Hospital,INTERNACION PISO 2 ENFERMERIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.10,08:BF:B8:1D:E8:09,,,15982,8GB,DIMM
+Hospital,GUARDIA OESTE RECEPCION,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.76.104,08:BF:B8:1D:DE:C1,,,15982,8GB,DIMM
+Hospital,GUARDIA OESTE RECEPCION,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.76.112,08:BF:B8:1D:E0:EA,,,15982,8GB,DIMM
+Hospital,GUARDIA OESTE CONSULTORIO  2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.76.103,08:BF:B8:1D:E0:45,,,15982,8GB,DIMM
+Hospital,GUARDIA OESTE CONSULTORIO 3,,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.76.111,C8:7F:54:AC:A9:0C,,,15982,8GB,DIMM
+Hospital,GUARDIA OESTE CONSULTORIO 4,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 16GB,M2 1 TB,,,10.254.76.106,6C:24:08:AF:32:79,,,9195,6GB,SODI
+Hospital,GUARDIA OESTE TRIAGE,Dell OptiPlex 3020,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,DIMM DDR3 4GB,SSD 120 GB,,,10.254.76.109,B0:83:FE:AA:AF:EE,,,3509,4GB,DIMM
+Hospital,GUARDIA OESTE ROJO,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.76.114,08:3A:88:6C:55:74,,,7270,8GB,SODI
+Hospital,GUARDIA OESTE AMARILLO,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 16GB,M2 1 TB,,,10.50.76.100,6C:24:08:AF:32:72,,,9195,6GB,SODI
+Hospital,GUARDIA OESTE JEFATURA,,,,,,,,,,,,,,
+Hospital,CONSULTORIO COMITE HIPERTENSION,,Microsoft Windows 7 Professional,AMD Athlon(tm) II X2,DIMM DDR2 2GB,HD 160 GB,,,,,,,1208,2GB,DIMM
+Hospital,CONSULTORIO DERMATOLOGIA 74,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.135,08:3A:88:6C:85:DC,,,7270,8GB,SODI
+Hospital,CONSULTORIO DERMATOLOGIA 75,Mini Lenovo 11JKS1U800,Microsoft Windows 10 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.39.193,08:3A:88:6C:9D:C0,,,7270,8GB,SODI
+Hospital,CONSULTORIO DERMATOLOGIA 78,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.213.103,08:3A:88:6C:59:47,,,7270,8GB,SODI
+Hospital,CONSULTORIO DERMATOLOGIA 79, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.158,10:05:01:9F:E5:86,,,2629,4GB,SODI
+Hospital,CONSULTORIO DERMATOLOGIA 80,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.38.148,08:3A:88:6C:6D:CC,,,7270,8GB,SODI
+Hospital,RECEPCION PLANTA ALTA 1 NEUROLOGIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.167,6C:24:08:B9:C5:59,,,9195,8GB,SODI
+Hospital,RECEPCION PLANTA ALTA 1CLINICA MEDICA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.172,08:BF:B8:1D:E1:88,,,15982,8GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA RECEPCION  1,LENOVO 10B1A055AC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 6GB,HDD 1 TB,,,10.254.38.181,44:37:E6:DC:BD:BE,,,3329,6GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA RECEPCION  2,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.12,08:BF:B8:1B:40:65,,,15982,8GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 1 JEFATURA,MS-7D22,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.210.131,D8:BB:C1:4D:BF:05,,,8223,8GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 2 JEFATURA, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.146,EC:AA:A0:29:3D:EE,,,2629,4GB,SODI
+Hospital,CONSULTORIO TRAUMATOLOGIA 3,Asus,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 16GB,SSD 500 GB,,,10.254.38.163,08:BF:B8:3A:39:BD,,,12005,6GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 4,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.41,6C:24:08:B9:C8:C4,,,9195,8GB,SODI
+Hospital,CONSULTORIO TRAUMATOLOGIA 5,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.88,08:BF:B8:1D:E1:A1,,,15982,8GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 6, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.194,88:AD:43:F0:4D:43,,,2629,4GB,SODI
+Hospital,CONSULTORIO TRAUMATOLOGIA 7,AM1M-S2H,Microsoft Windows 10 Pro,AMD Athlon(tm) 5150,DIMM DDR3 4GB,HDD 1 TB,,,10.254.210.170,1C:1B:0D:1E:8A:6B,,,1410,4GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 8,HP 20-b003la,Microsoft Windows 10 Pro,AMD E1-1200 APU,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.169,4C:72:B9:C6:F4:E6,,,382,4GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 9,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.196,54:B2:03:05:5F:A6,,,1215,4GB,SODI
+Hospital,CONSULTORIO TRAUMATOLOGIA 10, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.113,88:AD:43:F0:4C:FA,,,2629,4GB,SODI
+Hospital,CONSULTORIO TRAUMATOLOGIA 11,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.71,08:BF:B8:1D:E2:7B,,,15982,8GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA 12, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.103,EC:AA:A0:29:3F:15,,,2629,4GB,SODI
+Hospital,ADMINISTRACION ARCHIVO,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HD 160 GB,,,10.254.210.140,40:8D:5C:9D:1D:EC,,,2017,4GB,DIMM
+Hospital,ADMINISTRACION ARCHIVO,Desktop Generica,Microsoft Windows 10 Pro,AMD A4-6300 APU with Radeon(tm) HD Graphics,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.135,FC:AA:14:8C:F0:00,,,1432,4GB,DIMM
+Hospital,TURNOS VENTANILLA UNICA 1, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.139,00:71:C2:2A:BD:67,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 2, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.180,00:71:C2:2A:BD:EC,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 3, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.38.201,00:71:C2:2A:BD:19,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 4, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.27,D8:97:BA:4C:8D:90,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 5,LENOVO MiniPC 11T4S0K900,Microsoft Windows 10 Pro,12th Gen 12th Gen Intel(R) Core(TM) i5-12400T,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.121,6C:24:08:64:75:0D,,,15758,8GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 6, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.13,00:71:C2:2A:BD:17,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 7, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.38.189,D8:97:BA:4C:8D:96,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 8 , CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.137,00:71:C2:2A:BD:D1,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 9, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.38.244,EC:AA:A0:29:3D:F1,,,2629,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 10, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.132,D8:97:BA:4C:8D:86,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 11, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.4,00:71:C2:2A:BE:CC,,,1664,4GB,SODI
+Hospital,TURNOS VENTANILLA UNICA 12, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.39.60,00:71:C2:2A:BD:81,,,1664,4GB,SODI
+Hospital,CONSULTORIO OFTALMOLOGÍA 2, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.39.127,00:71:C2:2A:BD:5E,,,1664,4GB,SODI
+Hospital,CONSULTORIO OFTALMOLOGÍA 3,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.48,D4:5D:DF:08:74:F2,,,1215,4GB,SODI
+Hospital,CONSULTORIO OFTALMOLOGÍA 4, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.39.127,00:71:C2:2A:BD:5E,,,1664,4GB,SODI
+Hospital,CONSULTORIO SALUD MENTAL S/N,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.176,FC:4D:D4:36:CA:D2,,,1973,4GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA YESOS 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.203,08:BF:B8:1D:DE:C3,,,15982,8GB,DIMM
+Hospital,CONSULTORIO TRAUMATOLOGIA YESOS  2, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.166,88:AD:43:F0:4D:35,,,2629,4GB,SODI
+Hospital,RECEPCION PLANTA ALTA 2 ORL,Desktop Coradir,,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.160,08:BF:B8:1D:DF:0B,,,15982,8GB,DIMM
+Hospital,RECEPCION PLANTA ALTA 2 CARDIO,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.128,08:BF:B8:1D:E4:98,,,15982,8GB,DIMM
+Hospital,RECEPCION PLANTA ALTA 3 UROLOGIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.213.117,08:BF:B8:1D:E4:98,,,15982,8GB,DIMM
+Hospital,RECEPCION PLANTA ALTA 3 GASTRO,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.255.209.143,B0:3C:DC:EC:43:0C,,,9195,8GB,SODI
+Hospital,CONSULTORIO NUTRICIÓN 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.39.55,88:AD:43:F5:C6:A7,,,1215,4GB,SODI
+Hospital,CONSULTORIO NUTRICIÓN 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.92,88:AD:43:F5:C6:6A,,,1215,4GB,SODI
+Hospital,CONSULTORIO CLINICA MEDICA 56, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.38.220,00:71:C2:2A:BD:1F,,,1664,4GB,SODI
+Hospital,CONSULTORIO OFTALMOLOGÍA RECEPCIÓN,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.132,08:BF:B8:1E:0C:FC,,,15982,8GB,DIMM
+Hospital,CONSULTORIO OFTALMOLOGÍA 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.38.95,D4:5D:DF:08:74:B7,,,1215,4GB,SODI
+Hospital,RECEPCION PLANTA BAJA 1 SALUD MENTAL,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.121,08:BF:B8:1D:E4:94,,,15982,8GB,DIMM
+Hospital,RECEPCION PLANTA BAJA 1 GINECOLOGIA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.169,08:BF:B8:1D:DE:BE,,,15982,8GB,DIMM
+Hospital,RECEPCION PLANTA BAJA 2 CIRUGIA GENERAL,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.136,08:BF:B8:1D:E4:93,,,15982,8GB,DIMM
+Hospital,RECEPCION PLANTA BAJA 2 CIRUGIA,bangho AIO E0914,Microsoft Windows 10 Pro,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 6GB,HD 500 GB ,,,10.254.39.25,40:8D:5C:9D:1D:E2,,,2017,6GB,DIMM
+Hospital,CONSULTORIO NUTRICIÓN 4,CX Mini PC CX9222,,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.39.80,88:AD:43:F5:C7:38,,,1215,4GB,SODI
+Hospital,CONSULTORIO NUTRICIÓN 44b,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.109,08:BF:B8:1E:0C:FD,,,15982,8GB,DIMM
+Hospital,CONSULTORIO NUTRICIÓN 44b, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.38.226,54:B2:03:04:2C:26,,,2629,4GB,SODI
+Hospital,CONSULTORIO CUIDADOS PALIATIVOS SECRETARIA,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.54,6C:24:08:B9:C7:CF,,,9195,8GB,SODI
+Hospital,CONSULTORIO CUIDADOS PALIATIVOS 1,,,,,,,,,,,,,,
+Hospital,CONSULTORIO CUIDADOS PALIATIVOS 2,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.210.83,6C:24:08:B9:C6:FD,,,9195,8GB,SODI
+Hospital,CONSULTORIO CUIDADOS PALIATIVOS 3,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.188,D4:5D:DF:08:73:BD,,,1215,4GB,SODI
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA SECRETARIA 1,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HDD 1 TB,,,10.254.208.20,FC:4D:D4:34:60:9F,,,1973,4GB,DIMM
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA SECRETARIA 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.208.21,D4:5D:DF:08:76:7A,,,1215,4GB,SODI
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA JEFA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.208.35,D4:5D:DF:08:74:F3,,,1215,4GB,SODI
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.208.28,D4:5D:DF:08:77:0D,,,1215,4GB,SODI
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.208.34,54:B2:03:05:5F:99,,,1215,4GB,SODI
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.208.18,08:BF:B8:1D:DE:BF,,,15982,8GB,DIMM
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA,Desktop Generica,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU G470 @ 2.00GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.208.23,74:D4:35:77:4E:AD,,,575,4GB,DIMM
+Hospital,CONSULTORIO ANATOMIA PATOLOGICA,,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,SSD 240 GB / HDD 1 TB,,,10.254.208.4,A0:36:BC:AA:82:FD,,,15982,8GB,DIMM
+Hospital,CONSULTORIO CLINICA MEDICA 57,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.213.110,6C:24:08:B9:CB:21,,,9195,8GB,SODI
+Hospital,CONSULTORIO CLINICA MEDICA 55, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.213.112,10:05:01:9F:E5:C0,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 58, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.181,10:05:01:9F:E7:1E,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 59, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.253,10:05:01:9F:E6:14,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 54,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.203,80:C5:F2:2F:66:9D,,,1215,4GB,SODI
+Hospital,CONSULTORIO CLINICA MEDICA 60, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.108,10:05:01:9F:E5:D4,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 61, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.38.206,10:05:01:9F:E5:B7,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 62, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.38.179,00:71:C2:49:2C:19,,,1664,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 63, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.38.231,10:05:01:9F:E7:20,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 64, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.20,10:05:01:9F:E7:25,,,2629,4GB,SODI
+Hospital,CONSULTORIO NEUROLOGIA 65, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.17,10:05:01:9F:E6:D7,,,2629,4GB,SODI
+Hospital,CONSULTORIO GINECOLOGIA 26,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.39.247,FC:4D:D4:38:6D:53,,,1973,4GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 37,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.39.167,1C:1B:0D:9C:21:0A,,,3635,4GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 41,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.39.129,1C:1B:0D:99:22:10,,,3635,4GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 32,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.38.219,1C:1B:0D:9C:20:AD,,,3635,4GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 27,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.39.154,1C:1B:0D:9C:20:FC,,,3635,4GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 33,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.38.193,08:BF:B8:1D:E4:46,,,15982,8GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 36,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.38.251,1C:1B:0D:99:22:5B,,,3635,4GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 38,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,VLSSHHGINE117,08:BF:B8:1D:DE:C2,,,15982,8GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA Jefe 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.44,88:AD:43:F5:C5:89,,,1215,4GB,SODI
+Hospital,CONSULTORIO SALUD MENTAL 19 JEFA,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.213.108,00:23:24:6C:94:E0,,,2896,4GB,SODI
+Hospital,CONSULTORIO SALUD MENTAL 20,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.182,88:AD:43:F5:C6:1A,,,1215,4GB,SODI
+Hospital,CONSULTORIO SALUD MENTAL 21a,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.186,D4:5D:DF:08:76:2F,,,1215,4GB,SODI
+Hospital,CONSULTORIO SALUD MENTAL 21b,,,,,,,,,,,,,,
+Hospital,CONSULTORIO SALUD MENTAL 22,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.119,88:AD:43:F5:C6:DF,,,1215,4GB,SODI
+Hospital,CONSULTORIO SALUD MENTAL 24, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.176,10:05:01:9F:E6:19,,,2629,4GB,SODI
+Hospital,CONSULTORIO PROCTOLOGÍA 85,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.39.70,1C:1B:0D:E3:C6:0B,,,3635,4GB,DIMM
+Hospital,CONSULTORIO PROCTOLOGÍA 100,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.5,D4:5D:DF:08:75:9C,,,1215,4GB,SODI
+Hospital,CONSULTORIO UROLOGIA ,Desktop H310M H,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz,DIMM DDR4 4GB,HDD 1 TB,,,10.254.39.47,18:C0:4D:B1:C3:67,,,6580,4GB,DIMM
+Hospital,CONSULTORIO UROLOGIA 94,Mini PC NUC7CJYH,Microsoft Windows 11 Pro,Intel(R) Celeron(R) J4005,SODIMM DDR4 4GB,SSD 120 GB,,,10.255.208.68,98:2C:BC:2F:DE:29,,,1552,4GB,SODI
+Hospital,CONSULTORIO UROLOGIA JEFE,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.39.104,1C:1B:0D:99:22:49,,,3635,4GB,DIMM
+Hospital,CONSULTORIO UROLOGIA 93, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.39.122,10:05:01:9F:E6:C2,,,2629,4GB,SODI
+Hospital,CONSULTORIO UROLOGIA 92, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 250 GB,,,10.255.208.70,DC:85:DE:F0:11:46,,,1664,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 66, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.199,10:05:01:9F:E6:13,,,2629,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 67, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.202,10:05:01:9F:E5:7D,,,2629,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 68, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.87,10:05:01:9F:E6:EC,,,2629,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 72 / a, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.116,10:05:01:9F:E5:BD,,,2629,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 72 / b,HP 20-b003la,Microsoft Windows 10 Pro,AMD E1-1200 APU,DIMM DDR3 4GB,HD 1 TB,,,,,,,382,4GB,DIMM
+Hospital,CONSULTORIO CLINICA MEDICA 57, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.255.208.91,F0:03:8C:D9:CD:81,,,2629,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 73, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.198,10:05:01:9F:E5:DD,,,2629,4GB,SODI
+Hospital,CONSULTORIO ORL JEFE,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,SSD 250 GB,,,10.254.39.32,00:23:24:72:FA:5A,,,2896,4GB,SODI
+Hospital,CONSULTORIO ORL 1,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.39.11,D8:5E:D3:19:8B:2C,,,12005,8GB,DIMM
+Hospital,CONSULTORIO ORL 2,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.38.218,D8:5E:D3:19:8F:6F,,,12005,8GB,DIMM
+Hospital,CONSULTORIO ORL 3, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.223,10:05:01:9F:E5:85,,,2629,4GB,SODI
+Hospital,CONSULTORIO ORL 4, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.38.224,10:05:01:9F:E5:8F,,,2629,4GB,SODI
+Hospital,CONSULTORIO CIRUGIA 45,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.90,08:BF:B8:3A:39:A8,,,15982,8GB,DIMM
+Hospital,CONSULTORIO CIRUGIA 46,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.213.105,1C:1B:0D:E3:C5:E9,,,3635,4GB,DIMM
+Hospital,CONSULTORIO CIRUGIA 48,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.255.209.137,80:C5:F2:2F:63:D4,,,1215,4GB,SODI
+Hospital,CONSULTORIO CIRUGIA 49,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.70.208.111,1C:1B:0D:9C:40:EF,,,3635,4GB,DIMM
+Hospital,CONSULTORIO CIRUGIA 50,Lenovo 3484BNY,Microsoft Windows 10 Pro,"
+Intel(R) Pentium(R) CPU G645 @ 2.90GHz",DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.222,74:27:EA:AB:DD:A8,,,,4GB,DIMM
+Hospital,CONSULTORIO CIRUGIA 51,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 16GB,SSD 500 GB,,,10.254.213.100,D8:5E:D3:68:82:AA,,,12005,6GB,DIMM
+Hospital,CONSULTORIO CIRUGIA 52, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.210.171,10:05:01:9F:E6:08,,,2629,4GB,SODI
+Hospital,CONSULTORIO CIRUGIA PLASTICA Secretaria,Lenovo Desktop 10AX0061AS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.38.239,00:23:24:73:12:07,,,2896,4GB,SODI
+Hospital,CONSULTORIO CIRUGIA PLASTICA 34,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 240 GB,,,10.254.39.113,88:AD:43:F5:C6:23,,,1215,4GB,SODI
+Hospital,CONSULTORIO CIRUGIA PLASTICA 35, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.39.145,54:B2:03:04:2C:77,,,2629,4GB,SODI
+Hospital,CONSULTORIO CIRUGIA PLASTICA 30 JEFE,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 250 GB,,,10.254.39.96,88:AD:43:F5:C6:1E,,,1215,4GB,SODI
+Hospital,CONSULTORIO DxI SECRETARIAS 1,H510 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 16GB,SSD 500 GB,,,10.254.210.68,D8:5E:D3:C1:4C:1E,,,12005,6GB,DIMM
+Hospital,CONSULTORIO DxI SECRETARIAS 1,Lenovo 3484BNY,Microsoft Windows 10 Pro,"
+Intel(R) Pentium(R) CPU G645 @ 2.90GHz",DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.109,74:27:EA:AB:DC:81,,,,4GB,DIMM
+Hospital,CONSULTORIO CIRUGIA 53,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.48,88:AD:43:F5:C5:62,,,1215,4GB,SODI
+Hospital,CONSULTORIO CARDIOLOGÍA 71 / a,Lenovo 10M8S00E00,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,DIMM DDR4 4GB,HD 1 TB,,,10.254.38.210,6C:4B:90:0A:D8:17,,,4307,4GB,DIMM
+Hospital,CONSULTORIO CARDIOLOGÍA 71 / b,,,,,,,,,,,,,,
+Hospital,CONSULTORIO DxI ADMINISTRACION 1, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 250 GB,,,10.254.210.57,00:71:C2:2A:BD:59,,,1664,4GB,SODI
+Hospital,CONSULTORIO DxI ADMINISTRACION 1,HP HP Compaq Elite 8300 SFF,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,DIMM DDR3 6GB,SSD 250 GB,,,10.254.210.162,2C:44:FD:27:FD:31,,,4666,6GB,DIMM
+Hospital,CONSULTORIO DxI 1,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 8GB,SSD 120 GB,,,10.254.215.132,88:AD:43:F1:00:1E,,,1215,8GB,SODI
+Hospital,CONSULTORIO DxI 3,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.210.115,1C:1B:0D:9C:21:06,,,3635,4GB,DIMM
+Hospital,CONSULTORIO DxI 4,HP Compaq Elite 8300 SFF,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,DIMM DDR3 16GB,HD 500 GB ,,,10.254.210.200,2C:44:FD:33:86:DD,,,4666,6GB,DIMM
+Hospital,CONSULTORIO DxI 5,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.110,FC:4D:D4:38:6E:5D,,,1973,4GB,DIMM
+Hospital,CONSULTORIO DxI MAMOGRAFO,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.210.141,1C:1B:0D:99:22:04,,,3635,4GB,DIMM
+Hospital,CONSULTORIO DxI TOMOGRAFO, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.156,88:AD:43:F0:4C:F6,,,2629,4GB,SODI
+Hospital,CONSULTORIO DxI JEFE,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.254.215.131,E8:80:88:BD:25:FD,,,17366,6GB,SODI
+Hospital,CONSULTORIO DxI SUBJEFAS,,,,,,,,,,,,,,
+Hospital,CONSULTORIO DxI CONS 1,Lenovo Mini 10T8SK4H00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.69,F8:75:A4:EE:A9:B2,,,9782,8GB,SODI
+Hospital,CONSULTORIO DxI CONS 2,,,,,,,,,,,,,,
+Hospital,CONSULTORIO DxI CONS 3, CX Mini HSW-P1,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,SODIMM DDR3 4GB,SSD 120 GB,,,10.254.210.136,00:71:C2:2A:BD:27,,,1664,4GB,SODI
+Hospital,CONSULTORIO DxI CONS 4,LENOVO 3207A29,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,DIMM DDR3 4GB,HD 500 GB ,,,10.254.210.150,00:E0:99:08:C5:ED,,,1973,4GB,DIMM
+Hospital,CONSULTORIO DxI CONS 2,LENOVO 12LM0002AC Mini Pc,Microsoft Windows 10 Pro,13th Gen Intel(R) Core(TM) i5-13420H,SODIMM DDR4 16GB,M2 250 GB,,,10.254.215.130,E8:80:88:BD:2A:3A,,,17366,6GB,SODI
+Hospital,CONSULTORIO DxI 2,HP Compaq Elite 8300 SFF,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,DIMM DDR3 8GB,HD 500 GB ,,,10.254.210.145,88:51:FB:53:BB:56,,,4666,8GB,DIMM
+Hospital,DOCENCIA,Lenovo mini 10AX004CAS,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz,SODIMM DDR3 4GB,HD 500 GB ,,,10.254.38.187,D8:CB:8A:20:97:8B,,,3234,4GB,SODI
+Hospital,DOCENCIA,LENOVO mini 10B4A04DAC,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,DIMM DDR3 4GB,SSD 240 GB,,,10.254.38.200,44:8A:5B:DF:CD:82,,,3329,4GB,DIMM
+Hospital,ADOLESCENCIA SECRETARIA,Mini Lenovo 11JKS1U800,Microsoft Windows 11 Pro,AMD Ryzen 3 3200GE with Radeon Vega Graphics,SODIMM DDR4 8GB,M2 500 GB,,,10.254.210.64,08:3A:88:6E:29:3C,,,7270,8GB,SODI
+Hospital,ADOLESCENCIA CONSULTORIO 1,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.62,08:BF:B8:1D:E4:95,,,15982,8GB,DIMM
+Hospital,ADOLESCENCIA CONSULTORIO 2,CX Mini PC CX9222,Microsoft Windows 10 Pro,Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.210.164,D4:5D:DF:08:75:99,,,1215,4GB,SODI
+Hospital,CONSULTORIO GINECOLOGIA Jefe Pelvic,HP 20-b003la,Microsoft Windows 10 Pro,AMD E1-1200 APU,DIMM DDR3 8GB,HD 1 TB,,,10.255.208.77,A4:17:31:1E:F8:7C,,,382,8GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 28,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.39.203,D8:5E:D3:19:84:31,,,12005,8GB,DIMM
+Hospital,CONSULTORIO GINECOLOGIA 29,ARM H110N,WIN 8 / OTROS,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.39.7,1C:1B:0D:E3:C5:FE,,,3635,4GB,DIMM
+Hospital,ADOLESCENCIA CONSULTORI O3,,,,,,,,,,,,,,
+Hospital,ADOLESCENCIA CONSULTORI O4,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,SSD 250 GB,,,10.254.210.93,1C:1B:0D:99:BB:D4,,,3635,4GB,DIMM
+Hospital,ADOLESCENCIA CONSULTORI O5 ,Desktop Coradir,Microsoft Windows 11 Pro,AMD Ryzen 5 4600G with Radeon Graphics,DIMM DDR4 8GB,M2 500 GB,,,10.254.210.78,08:BF:B8:1D:E1:4D,,,15982,8GB,DIMM
+Hospital,ADOLESCENCIA CONSULTORI O6,,,,,,,,,,,,,,
+Hospital,ADOLESCENCIA CONSULTORI O7,bangho AIO E0914,WIN 8 / OTROS,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,DIMM DDR3 4GB,HD 1 TB,,,10.254.210.211,34:1A:4C:11:1F:A1,,,2017,4GB,DIMM
+Hospital,ADOLESCENCIA CONSULTORI O8,ARM H110N,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,DIMM DDR4 4GB,HD 500 GB ,,,10.254.210.107,1C:1B:0D:E3:C6:0D,,,3635,4GB,DIMM
+Hospital,CONSULTORIO GASTRO 97,H410 Gigabyte,Microsoft Windows 10 Pro,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,DIMM DDR4 8GB,SSD 250 GB,,,10.254.39.190,D8:5E:D3:19:8F:6D,,,12005,8GB,DIMM
+Hospital,CONSULTORIO GASTRO 98, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.2,10:05:01:9F:E5:87,,,2629,4GB,SODI
+Hospital,CONSULTORIO GASTRO 99,Mini Lenovo  11DUSGMR00,Microsoft Windows 11 Pro,Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz CPU @ 2.30GHz,SODIMM DDR4 8GB,M2 250 GB,,,10.254.38.158,6C:24:08:B9:C4:E1,,,9195,8GB,SODI
+Hospital,CONSULTORIO ENDOCRINOLOGIA 88, CX Mini PC i3,WIN 8 / OTROS,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.35,10:05:01:9F:E5:8D,,,2629,4GB,SODI
+Hospital,CONSULTORIO ENDOCRINOLOGIA 89, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.65,10:05:01:9F:E5:BF,,,2629,4GB,SODI
+Hospital,CONSULTORIOENDOCRINOLOGIA90, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.39.111,10:05:01:9F:E6:03,,,2629,4GB,SODI
+Hospital,CONSULTORIOENDOCRINOLOGIA91, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,SSD 120 GB,,,10.254.39.143,10:05:01:9F:E6:B7,,,2629,4GB,SODI
+Hospital,CONSULTORIOALERGIA85b, CX Mini PC i3,Microsoft Windows 10 Pro,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,SODIMM DDR4 4GB,HD 500 GB ,,,10.254.210.175,10:05:01:9F:E6:B6,,,2629,4GB,SODI
