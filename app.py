@@ -1,63 +1,87 @@
 import streamlit as st
 import pandas as pd
 
-# --- CONFIGURACIÓN DE LA PÁGINA ---
-st.set_page_config(page_title="Buscador Relevamiento", page_icon="🔍", layout="centered")
+# -------------------------------
+# Configuración de la página
+# -------------------------------
+st.set_page_config(
+    page_title="Buscador de Relevamiento",
+    page_icon="🔍",
+    layout="centered"
+)
 
-# --- TÍTULO DE LA APP ---
-st.markdown("<h1 style='text-align: center; color: #003366;'>Buscador de Relevamiento</h1>", unsafe_allow_html=True)
+# -------------------------------
+# Título
+# -------------------------------
+st.markdown(
+    "<h1 style='text-align: center; color: #003366;'>Buscador de Relevamiento</h1>",
+    unsafe_allow_html=True
+)
 
-# --- FUNCIÓN PARA CARGAR DATOS ---
+# -------------------------------
+# Cargar datos desde GitHub
+# -------------------------------
+url_csv = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.csv"
+
 @st.cache_data
 def load_data():
-    url_csv = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/refs/heads/main/relevamiento.csv?token=GHSAT0AAAAAADMG3X2DW7TIIFERDW6I3ZVO2G4D2MQ"
     try:
         df = pd.read_csv(url_csv)
         return df
     except Exception as e:
-        st.error(f"No se pudieron cargar los datos. Error: {e}")
-        return pd.DataFrame()  # Retorna DataFrame vacío si falla
+        st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
+        return pd.DataFrame()  # retorna dataframe vacío si falla
 
-# --- CARGAR DATOS ---
 df = load_data()
 
-# --- CAJA DE BÚSQUEDA ---
-st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
-search_value = st.text_input("", "").strip()  # Caja centrada, sin texto guía
-st.markdown("</div>", unsafe_allow_html=True)
+# -------------------------------
+# Caja de búsqueda
+# -------------------------------
+search_input = st.text_input("", placeholder="", key="search_box")
 
-# --- FUNCION PAGINACIÓN ---
-def mostrar_resultado(df_busqueda, page_num, resultados_por_pagina=1):
-    start_idx = page_num * resultados_por_pagina
-    end_idx = start_idx + resultados_por_pagina
-    sub_df = df_busqueda.iloc[start_idx:end_idx]
+# -------------------------------
+# Función de búsqueda
+# -------------------------------
+def search_data(df, query):
+    if query == "":
+        return pd.DataFrame()
+    # Buscar en todas las columnas, case-insensitive
+    mask = df.apply(lambda row: row.astype(str).str.contains(query, case=False).any(), axis=1)
+    return df[mask]
 
-    # Mostrar resultados centrados
-    for i in range(len(sub_df)):
-        st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
-        st.table(sub_df.iloc[i:i+1])  # Mostrar un resultado por página
-        st.markdown("</div>", unsafe_allow_html=True)
+results = search_data(df, search_input)
 
-# --- LÓGICA DE BÚSQUEDA Y PAGINACIÓN ---
-if search_value:
-    df_result = df[(df.astype(str).apply(lambda row: search_value.lower() in row.str.lower().to_string(), axis=1))]
-    
-    if not df_result.empty:
-        # Control de páginas
-        if "page_num" not in st.session_state:
-            st.session_state.page_num = 0
-        
-        col1, col2, col3 = st.columns([1,2,1])
-        with col1:
-            if st.button("Anterior") and st.session_state.page_num > 0:
-                st.session_state.page_num -= 1
-        with col3:
-            if st.button("Siguiente") and st.session_state.page_num < len(df_result)-1:
-                st.session_state.page_num += 1
-        
-        mostrar_resultado(df_result, st.session_state.page_num)
-    else:
-        st.warning("No se encontraron resultados para la búsqueda.")
+# -------------------------------
+# Paginación
+# -------------------------------
+if not results.empty:
+    results.reset_index(drop=True, inplace=True)
+    if "page" not in st.session_state:
+        st.session_state.page = 0
+
+    total_pages = len(results)
+    current_page = st.session_state.page
+
+    # Mostrar un solo resultado por página
+    row = results.iloc[current_page]
+
+    # Mostrar la información centrada
+    st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
+    for col in results.columns:
+        st.markdown(f"**{col}:** {row[col]}")
+    st.markdown("</div>", unsafe_allow_html=True)
+
+    # Botones de paginación
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col1:
+        if st.button("Anterior") and current_page > 0:
+            st.session_state.page -= 1
+    with col3:
+        if st.button("Siguiente") and current_page < total_pages - 1:
+            st.session_state.page += 1
+else:
+    if search_input != "":
+        st.warning("No se encontraron resultados.")
 
 
 
