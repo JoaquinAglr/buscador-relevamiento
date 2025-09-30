@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 
-# --- Cargar datos desde GitHub ---
+# --- Cargar datos desde GitHub (raw) ---
 @st.cache_data
 def load_data():
     url_excel = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.xlsx"
-    df = pd.read_excel(url_excel)
+    df = pd.read_excel(url_excel, engine="openpyxl")
     return df
 
 df = load_data()
@@ -14,7 +14,7 @@ df = load_data()
 st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
 
 st.title("🔎 Buscador de Relevamiento")
-st.markdown("Aplicación para buscar información en el relevamiento cargado en Excel.")
+st.markdown("Aplicación para buscar información en el relevamiento cargado desde GitHub.")
 
 # --- Barra de búsqueda ---
 search = st.text_input("Buscar por cualquier palabra o código:")
