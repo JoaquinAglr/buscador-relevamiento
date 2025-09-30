@@ -8,8 +8,10 @@ st.set_page_config(
     layout="wide"
 )
 
-# Ruta del archivo Excel
-ruta_archivo = r"\\10.175.16.24\sal-fs\Estandarizacion 2021\ARCHIVOS\Relevamiento\Total relevamiento municipio.xlsx"
+# Ruta al archivo Excel en GitHub
+excel_url = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/total relevamiento municipio.xlsx"
+df = pd.read_excel(excel_url, engine="openpyxl")
+
 
 # Leer archivo Excel
 try:
@@ -83,5 +85,6 @@ if busqueda:
                 for col in resultados.columns:
                     st.markdown(f"**{col}:** {row[col]}")
                 st.markdown("</div>", unsafe_allow_html=True)
+
 
 
