@@ -1,17 +1,14 @@
 import streamlit as st
 import pandas as pd
 
-# ✅ URL raw directa al CSV en GitHub
-GITHUB_URL = "https://raw.githubusercontent.com/JoaquinAglr/buscador-relevamiento/main/relevamiento.csv"
-
 st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
 
 st.title("📊 Buscador de Relevamiento")
 
-# Intentamos cargar los datos
+# Cargar CSV local dentro del repo
 try:
-    df = pd.read_csv(GITHUB_URL, encoding="utf-8", sep=",")  # cambia sep=";" si tu CSV lo usa
-    st.success("✅ Datos cargados desde GitHub correctamente.")
+    df = pd.read_csv("relevamiento.csv", encoding="utf-8")
+    st.success("✅ Datos cargados correctamente desde el repositorio.")
 except Exception as e:
     st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
     st.stop()
@@ -37,6 +34,7 @@ if query:
     st.dataframe(resultados)
 else:
     st.info("Ingrese un término de búsqueda en la barra lateral.")
+
 
 
 
