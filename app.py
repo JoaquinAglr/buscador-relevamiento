@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # URL permanente del CSV en GitHub (sin token)
-url = "https://github.com/JoaquinAglr/buscador-relevamiento/raw/main/relevamiento.csv"
+GITHUB_URL = "https://github.com/JoaquinAglr/buscador-relevamiento/raw/main/relevamiento.csv"
 df = pd.read_csv(url, delimiter=',')
 
 st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
@@ -38,6 +38,7 @@ if query:
     st.dataframe(resultados)
 else:
     st.info("Ingrese un término de búsqueda en la barra lateral.")
+
 
 
 
