@@ -8,7 +8,6 @@ st.title("📊 Buscador de Relevamiento")
 # Cargar CSV local dentro del repo
 try:
     df = pd.read_csv("relevamiento.csv", encoding="utf-8")
-    st.success("✅ Datos cargados correctamente desde el repositorio.")
 except Exception as e:
     st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
     st.stop()
@@ -25,12 +24,15 @@ with tab1:
     # Texto de búsqueda
     query = st.sidebar.text_input("Ingrese texto a buscar")
 
-    # Filtrar datos
     if query:
         resultados = df[df[columna].astype(str).str.contains(query, case=False, na=False)]
         st.subheader("Resultados de la búsqueda")
         st.write(f"🔎 {len(resultados)} resultados encontrados")
-        st.dataframe(resultados, use_container_width=True)
+
+        # Mostrar tabla con botones
+        for i, row in resultados.iterrows():
+            with st.expander(f"🔹 {columna}: {row[columna]}"):
+                st.write(row)   # muestra todos los datos de esa fila
     else:
         st.info("Ingrese un término de búsqueda en la barra lateral.")
 
