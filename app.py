@@ -28,9 +28,21 @@ with tab1:
         resultados = df[df[columna].astype(str).str.contains(query, case=False, na=False)]
         st.subheader("Resultados de la búsqueda")
         st.write(f"🔎 {len(resultados)} resultados encontrados")
-        st.dataframe(resultados, use_container_width=True)
 
-        # Selector para ver detalle de una fila
+        # Tabla sin botón de descarga
+        st.dataframe(resultados, use_container_width=True, hide_index=False)
+
+        # Selector para elegir una fila
+        if not resultados.empty:
+            fila_idx = st.selectbox(
+                "👉 Seleccione un registro para ver en detalle",
+                resultados.index,
+                format_func=lambda x: f"{columna}: {resultados.loc[x, columna]}"
+            )
+
+            # Mostrar detalle en formato ficha
+            if fila_idx is not None:
+                st.markdown("###
 
 
 
