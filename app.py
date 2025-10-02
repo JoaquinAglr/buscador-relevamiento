@@ -42,9 +42,17 @@ with tab1:
 
             # Mostrar detalle en formato ficha
             if fila_idx is not None:
-                st.markdown("###
+                st.markdown("### 📌 Detalle del registro seleccionado")
+                fila = resultados.loc[fila_idx]
+                for c, v in fila.items():
+                    st.write(f"**{c}:** {v}")
 
+    else:
+        st.info("Ingrese un término de búsqueda en la barra lateral.")
 
+with tab2:
+    st.subheader("Vista previa de los datos")
+    st.dataframe(df.head(20), use_container_width=True, hide_index=False)
 
 
 
