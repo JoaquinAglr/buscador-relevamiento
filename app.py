@@ -26,37 +26,40 @@ with tab1:
 
     if query:
         resultados = df[df[columna].astype(str).str.contains(query, case=False, na=False)]
-        st.subheader("Resultados de la búsqueda")
-        st.write(f"🔎 {len(resultados)} resultados encontrados")
+
+        # Mostrar resultados encontrados debajo de la barra lateral
+        st.sidebar.markdown(f"**🔎 {len(resultados)} resultados encontrados**")
 
         if not resultados.empty:
             # Inicializar índice en session_state
             if "indice" not in st.session_state:
                 st.session_state.indice = 0
 
-            # Validar que el índice no se salga del rango
+            # Validar rango
             st.session_state.indice = max(0, min(st.session_state.indice, len(resultados) - 1))
 
-            # Mostrar tarjeta del registro actual
-            fila = resultados.iloc[st.session_state.indice]
-            st.markdown("### 📌 Detalle del registro seleccionado")
-            st.write("---")
-            for c, v in fila.items():
-                st.markdown(f"**{c}:** {v}")
-            st.write("---")
+            # Centrar la tarjeta con columnas vacías
+            col_left, col_center, col_right = st.columns([1, 2, 1])
+            with col_center:
+                fila = resultados.iloc[st.session_state.indice]
+                st.markdown("### 📌 Detalle del registro seleccionado")
+                st.write("---")
+                for c, v in fila.items():
+                    st.markdown(f"**{c}:** {v}")
+                st.write("---")
 
-            # Botones de navegación
-            col1, col2, col3 = st.columns([1, 2, 1])
-            with col1:
-                if st.button("⬅️ Anterior") and st.session_state.indice > 0:
-                    st.session_state.indice -= 1
-                    st.rerun()
-            with col3:
-                if st.button("Siguiente ➡️") and st.session_state.indice < len(resultados) - 1:
-                    st.session_state.indice += 1
-                    st.rerun()
+                # Botones navegación
+                col1, col2, col3 = st.columns([1, 2, 1])
+                with col1:
+                    if st.button("⬅️ Anterior") and st.session_state.indice > 0:
+                        st.session_state.indice -= 1
+                        st.rerun()
+                with col3:
+                    if st.button("Siguiente ➡️") and st.session_state.indice < len(resultados) - 1:
+                        st.session_state.indice += 1
+                        st.rerun()
 
-            st.caption(f"Mostrando registro {st.session_state.indice + 1} de {len(resultados)}")
+                st.caption(f"Mostrando registro {st.session_state.indice + 1} de {len(resultados)}")
 
     else:
         st.info("Ingrese un término de búsqueda en la barra lateral.")
@@ -64,7 +67,6 @@ with tab1:
 with tab2:
     st.subheader("Vista previa de los datos")
     st.dataframe(df.head(20), use_container_width=True, hide_index=False)
-
 
 
 
