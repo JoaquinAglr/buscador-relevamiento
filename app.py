@@ -1,51 +1,39 @@
 import streamlit as st
 import pandas as pd
-from style import STYLES  # importa tus estilos CSS
 
-st.set_page_config(page_title="Buscador de Relevamiento", layout="centered")
+st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
 
-# Inyectar CSS
-st.markdown(STYLES, unsafe_allow_html=True)
+st.title("📊 Buscador de Relevamiento")
 
-# Encabezado tipo Google
-st.markdown(
-    """
-    <div class="header-google">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="logo">
-        <h1>Buscador de Relevamiento</h1>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
-
-# Cargar CSV
+# Cargar CSV local dentro del repo
 try:
     df = pd.read_csv("relevamiento.csv", encoding="utf-8")
+    st.success("✅ Datos cargados correctamente desde el repositorio.")
 except Exception as e:
     st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
     st.stop()
 
-# Input principal
-query = st.text_input("Ingrese texto a buscar", placeholder="Buscar en relevamiento...")
-
-# Botón de búsqueda
-buscar = st.button("🔍 Buscar")
-
-# Mostrar resultados
-if buscar and query:
-    # Por defecto busca en todas las columnas
-    resultados = df[df.apply(lambda row: row.astype(str).str.contains(query, case=False, na=False).any(), axis=1)]
-    
-    st.subheader("Resultados de la búsqueda")
-    st.write(f"🔎 {len(resultados)} resultados encontrados")
-    st.dataframe(resultados)
-elif buscar:
-    st.info("Ingrese un término para buscar.")
-
-# Vista previa siempre abajo
+# Mostrar preview
 st.subheader("Vista previa de los datos")
 st.dataframe(df.head(20))
 
+# Barra lateral para búsqueda
+st.sidebar.header("🔍 Filtros de búsqueda")
+
+# Seleccionar columna
+columna = st.sidebar.selectbox("Seleccionar columna para buscar", df.columns)
+
+# Texto de búsqueda
+query = st.sidebar.text_input("Ingrese texto a buscar")
+
+# Filtrar datos
+if query:
+    resultados = df[df[columna].astype(str).str.contains(query, case=False, na=False)]
+    st.subheader("Resultados de la búsqueda")
+    st.write(f"🔎 {len(resultados)} resultados encontrados")
+    st.dataframe(resultados)
+else:
+    st.info("Ingrese un término de búsqueda en la barra lateral.")
 
 
 
