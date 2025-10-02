@@ -5,13 +5,6 @@ st.set_page_config(page_title="Buscador de Relevamiento", layout="wide")
 
 st.title("📊 Buscador de Relevamiento")
 
-# Cargar CSV local dentro del repo
-try:
-    df = pd.read_csv("relevamiento.csv", encoding="utf-8")
-    st.success("✅ Datos cargados correctamente desde el repositorio.")
-except Exception as e:
-    st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
-    st.stop()
 
 # Filtrar datos
 if query:
@@ -34,6 +27,14 @@ columna = st.sidebar.selectbox("Seleccionar columna para buscar", df.columns)
 
 # Texto de búsqueda
 query = st.sidebar.text_input("Ingrese texto a buscar")
+
+# Cargar CSV local dentro del repo
+try:
+    df = pd.read_csv("relevamiento.csv", encoding="utf-8")
+    st.success("✅ Datos cargados correctamente desde el repositorio.")
+except Exception as e:
+    st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
+    st.stop()
 
 
 
