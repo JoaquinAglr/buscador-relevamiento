@@ -29,23 +29,36 @@ with tab1:
         st.subheader("Resultados de la búsqueda")
         st.write(f"🔎 {len(resultados)} resultados encontrados")
 
-        # Tabla sin botón de descarga
-        st.dataframe(resultados, use_container_width=True, hide_index=False)
-
-        # Selector para elegir una fila
         if not resultados.empty:
-            fila_idx = st.selectbox(
-                "👉 Seleccione un registro para ver en detalle",
-                resultados.index,
-                format_func=lambda x: f"{columna}: {resultados.loc[x, columna]}"
-            )
+            # Inicializar índice de navegación en session_state
+            if "indice" not in st.session_state:
+                st.session_state.indice = 0
 
-            # Mostrar detalle en formato ficha
-            if fila_idx is not None:
-                st.markdown("### 📌 Detalle del registro seleccionado")
-                fila = resultados.loc[fila_idx]
-                for c, v in fila.items():
-                    st.write(f"**{c}:** {v}")
+            # Asegurar que el índice siempre esté dentro del rango
+            st.session_state.indice = max(0, min(st.session_state.indice, len(resultados) - 1))
+
+            # Mostrar tarjeta del registro actual
+            fila = resultados.iloc[st.session_state.indice]
+            st.markdown("### 📌 Detalle del registro seleccionado")
+
+            st.container()
+            st.write("---")
+            for c, v in fila.items():
+                st.markdown(f"**{c}:** {v}")
+            st.write("---")
+
+            # Botones de navegación
+            col1, col2, col3 = st.columns([1, 2, 1])
+            with col1:
+                if st.button("⬅️ Anterior") and st.session_state.indice > 0:
+                    st.session_state.indice -= 1
+                    st.experimental_rerun()
+            with col3:
+                if st.button("Siguiente ➡️") and st.session_state.indice < len(resultados) - 1:
+                    st.session_state.indice += 1
+                    st.experimental_rerun()
+
+            st.caption(f"Mostrando registro {st.session_state.indice + 1} de {len(resultados)}")
 
     else:
         st.info("Ingrese un término de búsqueda en la barra lateral.")
@@ -53,9 +66,6 @@ with tab1:
 with tab2:
     st.subheader("Vista previa de los datos")
     st.dataframe(df.head(20), use_container_width=True, hide_index=False)
-
-
-
 
 
 
