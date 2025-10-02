@@ -13,14 +13,10 @@ except Exception as e:
     st.error(f"❌ No se pudieron cargar los datos. Error: {e}")
     st.stop()
 
-# Tabs
-tab1, tab2 = st.tabs(["📋 Vista previa", "🔎 Búsqueda"])
+# Tabs: primero búsqueda, luego vista previa
+tab1, tab2 = st.tabs(["🔎 Búsqueda", "📋 Vista previa"])
 
 with tab1:
-    st.subheader("Vista previa de los datos")
-    st.dataframe(df.head(20))
-
-with tab2:
     st.sidebar.header("Filtros de búsqueda")
 
     # Seleccionar columna
@@ -37,6 +33,11 @@ with tab2:
         st.dataframe(resultados, use_container_width=True)
     else:
         st.info("Ingrese un término de búsqueda en la barra lateral.")
+
+with tab2:
+    st.subheader("Vista previa de los datos")
+    st.dataframe(df.head(20))
+
 
 
 
